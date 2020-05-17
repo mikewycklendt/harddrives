@@ -1,0 +1,101 @@
+'12 monkeys'/
+ 24/
+'30 rock'/
+ 9-1-1/
+'9-1-1 lone star'/
+ alias/
+'ancient civilizations'/
+'Band of Brothers'/
+ batwoman/
+ billions/
+'black mirror'/
+'blue planet'/
+'blue planet 2'/
+'boardwalk empire'/
+'breaking bad'/
+'brooklyn nine-nine'/
+ chernobyl/
+'children of dune'/
+'criminal minds'/
+"DC's legends of tomorrow"/
+'deep space'/
+ devs/
+ dexter/
+ dune/
+ heroes/
+ homeland/
+ house/
+'house of cards'/
+ hunters/
+'Into the West'/
+'killer inside the mind of aaron hernandez'/
+ krypton/
+'Kyle XY'/
+ legacies/
+'madam secretary'/
+"marvel's agents of S.H.I.E.L.D"/
+"marvel's runaways"/
+'money heist'/
+'mr robot'/
+'my boys'/
+ narcos/
+'narcos mexico'/
+ nashville/
+'nathan for you'/
+'new amsterdam'/
+'nip tuck'/
+'once upon a time'/
+ ozark/
+'planet earth'/
+'planet earth 2'/
+ power/
+'prison break'/
+'project blue book'/
+ psych/
+'rescue me'/
+ riverdale/
+ s.w.a.t/
+ sherlock/
+ shooter/
+'silicon valley'/
+ six/
+'sleepy hollow'/
+ smallville/
+'sons of anarchy'/
+'south park'/
+'star wars forces of destiny'/
+'star wars rebels'/
+'star wars resistance'/
+'star wars the clone wars'/
+ suits/
+ supergirl/
+'tales from the loop'/
+'The 4400'/
+'the americans'/
+'the expanse'/
+'the family man'/
+'the flash'/
+'the following'/
+'the league'/
+'the mandalorian'/
+'the new pope'/
+'the newsroom'/
+'the originals'/
+'the outsider'/
+'the resident'/
+'the rookie'/
+'the shield'/
+'the tesla files'/
+'the vampire diaries'/
+'the walking dead'/
+'the west wing'/
+'the witcher'/
+'the x-files'/
+'the young pope'/
+'tiger king'/
+'true detective'/
+ upload/
+ vikings/
+ watchmen/
+ workaholics/
+'young justice'/
