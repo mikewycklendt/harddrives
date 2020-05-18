@@ -11,6 +11,7 @@
 'Band of Brothers'/
 'battlestar galactica'/
 'better call saul'/
+ beyond/
  billions/
 'black mirror'/
 'blue planet'/
@@ -26,9 +27,12 @@
  dexter/
  empire/
  fargo/
+ fbi/
+'fbi most wanted'/
  hannibal/
  heroes/
  hunters/
+ jett/
 'killing eve'/
  legacies/
 "marvel's runaways"/
@@ -68,3 +72,4 @@
  vikings/
 'when they see us'/
  wonderland/
+ yellowstone/

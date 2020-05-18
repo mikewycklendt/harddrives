@@ -15,6 +15,8 @@
  empire/
  entourage/
  fargo/
+ fbi/
+'fbi most wanted'/
  firefly/
 'friday night lights'/
  friends/
@@ -28,6 +30,7 @@
 'Into the West'/
 'its always sunny in philadelphia'/
 'jack ryan'/
+ jett/
  justified/
 'killing eve'/
  krypton/
@@ -105,4 +108,5 @@
  westworld/
 'when they see us'/
  wonderland/
+ yellowstone/
 'young justice'/
