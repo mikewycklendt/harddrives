@@ -25,6 +25,7 @@
  community/
  deadwood/
  dexter/
+'doom patrol'/
  empire/
  fargo/
  fbi/
@@ -53,12 +54,15 @@
  shooter/
  six/
 'six feet under'/
+ southland/
  succession/
  suits/
+ taken/
 'tales from the loop'/
 'the 100'/
 'the americans'/
 'the boys'/
+'the chicago code'/
 'the expanse'/
 'the family man'/
 'the last kingdom'/

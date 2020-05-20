@@ -11,6 +11,7 @@
  deadwood/
 'desperate housewives'/
  devs/
+'doom patrol'/
  dracula/
  empire/
  entourage/
@@ -64,6 +65,7 @@
  seinfeld/
 'silicon valley'/
 'six feet under'/
+ southland/
 'star trek discovery'/
 'star wars forces of destiny'/
 'star wars rebels'/
@@ -78,10 +80,12 @@
  succession/
  supergirl/
  supernatural/
+ taken/
 'terminator - the sarah connor chronicles'/
 'the 100'/
 'The 4400'/
 'the boys'/
+'the chicago code'/
 'the flash'/
 'the following'/
 'the last kingdom'/
@@ -93,6 +97,7 @@
 'the rookie'/
 'the sopranos'/
 'the tesla files'/
+'the unit'/
 'the wire'/
 'the witcher'/
 'the x-files'/
