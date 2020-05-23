@@ -37,6 +37,7 @@
 'killing eve'/
  legacies/
 "marvel's runaways"/
+ merlin/
  mindhunter/
 'my boys'/
 'nathan for you'/

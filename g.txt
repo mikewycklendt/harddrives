@@ -36,6 +36,7 @@
 'madam secretary'/
 "marvel's agents of S.H.I.E.L.D"/
 "marvel's runaways"/
+ merlin/
 'money heist'/
 'mr robot'/
 'my boys'/
