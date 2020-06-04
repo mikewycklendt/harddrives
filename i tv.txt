@@ -8,6 +8,7 @@
 'arrersted development'/
  arrow/
  atlanta/
+ awake/
 'Band of Brothers'/
 'battlestar galactica'/
 'better call saul'/
@@ -19,6 +20,7 @@
 'boardwalk empire'/
 'boston public'/
 'brooklyn nine-nine'/
+'burn notice'/
  castle/
  chernobyl/
  chuck/
@@ -32,6 +34,7 @@
 'fbi most wanted'/
  hannibal/
  heroes/
+'how i met your mother'/
  hunters/
  jett/
 'killing eve'/
@@ -47,6 +50,7 @@
  power/
 'prison break'/
 'prodigal son'/
+ quantico/
  rome/
 'royal pains'/
  s.w.a.t/
@@ -55,6 +59,7 @@
  shooter/
  six/
 'six feet under'/
+'sleepy hollow'/
  southland/
  succession/
  suits/
@@ -62,6 +67,7 @@
 'tales from the loop'/
 'the 100'/
 'the americans'/
+'the blacklist'/
 'the boys'/
 'the chicago code'/
 'the expanse'/

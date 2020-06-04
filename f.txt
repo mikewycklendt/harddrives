@@ -1,6 +1,0 @@
- heroes/
-'house of cards'/
- psych/
-'sleepy hollow'/
-'south park'/
-'the west wing'/

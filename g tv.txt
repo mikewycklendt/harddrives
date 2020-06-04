@@ -15,6 +15,7 @@
 'boardwalk empire'/
 'breaking bad'/
 'brooklyn nine-nine'/
+'burn notice'/
  chernobyl/
 'children of dune'/
 'criminal minds'/
@@ -29,6 +30,7 @@
 'house of cards'/
  hunters/
 'Into the West'/
+ journeyman/
 'killer inside the mind of aaron hernandez'/
  krypton/
 'Kyle XY'/
@@ -46,14 +48,17 @@
 'nathan for you'/
 'new amsterdam'/
 'nip tuck'/
+ numb3rs/
 'once upon a time'/
  ozark/
+'person of interest'/
 'planet earth'/
 'planet earth 2'/
  power/
 'prison break'/
 'project blue book'/
  psych/
+ quantico/
 'rescue me'/
  riverdale/
  s.w.a.t/
@@ -74,6 +79,7 @@
 'tales from the loop'/
 'The 4400'/
 'the americans'/
+'the blacklist'/
 'the expanse'/
 'the family man'/
 'the flash'/
@@ -93,7 +99,6 @@
 'the walking dead'/
 'the west wing'/
 'the witcher'/
-'the x-files'/
 'the young pope'/
 'tiger king'/
 'true detective'/

@@ -35,6 +35,7 @@
  house/
 'its always sunny in philadelphia'/
 'jack ryan'/
+ journeyman/
  justified/
 'killer inside the mind of aaron hernandez'/
  krypton/
