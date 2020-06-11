@@ -13,18 +13,18 @@
 'blue planet'/
 'blue planet 2'/
 'boardwalk empire'/
+'boy meets world'/
 'breaking bad'/
 'brooklyn nine-nine'/
 'burn notice'/
  chernobyl/
-'children of dune'/
 'criminal minds'/
 "DC's legends of tomorrow"/
 'deep space'/
  devs/
  dexter/
- dune/
- heroes/
+'full house'/
+'hangar 1 - the ufo files'/
  homeland/
  house/
 'house of cards'/
@@ -35,6 +35,7 @@
  krypton/
 'Kyle XY'/
  legacies/
+ leverage/
 'madam secretary'/
 "marvel's agents of S.H.I.E.L.D"/
 "marvel's runaways"/
@@ -62,6 +63,8 @@
 'rescue me'/
  riverdale/
  s.w.a.t/
+'saved by the bell'/
+'saved by the bell - the college years'/
  sherlock/
  shooter/
 'silicon valley'/
@@ -84,6 +87,8 @@
 'the family man'/
 'the flash'/
 'the following'/
+'the fresh prince of bel air'/
+'the killing'/
 'the league'/
 'the mandalorian'/
 'the new pope'/
@@ -102,6 +107,8 @@
 'the young pope'/
 'tiger king'/
 'true detective'/
+'UFOs - The Lost Evidence'/
+'Unsealed - Alien Files'/
  upload/
  vikings/
  watchmen/
