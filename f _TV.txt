@@ -1,5 +1,5 @@
 '30 rock'/
-'boy meets world'/
+ er/
 'full house'/
 'hangar 1 - the ufo files'/
 'house of cards'/
@@ -8,8 +8,6 @@
  numb3rs/
 'person of interest'/
  psych/
-'saved by the bell'/
-'saved by the bell - the college years'/
 'south park'/
 'the fresh prince of bel air'/
 'the killing'/

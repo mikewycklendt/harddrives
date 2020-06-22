@@ -1,10 +1,9 @@
+'1600 penn'/
  9-1-1/
 '9-1-1 lone star'/
 'all american'/
 'american gods'/
-'ancient aliens'/
  angel/
- archer/
 'arrersted development'/
  arrow/
  atlanta/
@@ -21,7 +20,6 @@
 'boston public'/
 'brooklyn nine-nine'/
 'burn notice'/
- castle/
  chernobyl/
  chuck/
  community/
@@ -61,6 +59,7 @@
 'six feet under'/
 'sleepy hollow'/
  southland/
+'star trek picard'/
  succession/
  suits/
  taken/
@@ -75,6 +74,8 @@
 'the last kingdom'/
 'the mentalist'/
 'the outsider'/
+'the pacific'/
+'the pyramid code'/
 'the resident'/
 'the shield'/
 'true detective'/

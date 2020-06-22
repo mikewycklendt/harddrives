@@ -4,10 +4,13 @@
  9-1-1/
 '9-1-1 lone star'/
  alias/
+'ancient aliens'/
 'ancient civilizations'/
+ archer/
 'Band of Brothers'/
  batwoman/
  beyond/
+'big little lies'/
  billions/
 'black mirror'/
 'blue planet'/
@@ -17,14 +20,20 @@
 'breaking bad'/
 'brooklyn nine-nine'/
 'burn notice'/
+ castle/
  chernobyl/
 'criminal minds'/
 "DC's legends of tomorrow"/
 'deep space'/
  devs/
  dexter/
+ entourage/
+ er/
+'friday night lights'/
 'full house'/
+'game of thrones'/
 'hangar 1 - the ufo files'/
+'hawaii five-0'/
  homeland/
  house/
 'house of cards'/
@@ -36,6 +45,8 @@
 'Kyle XY'/
  legacies/
  leverage/
+ life/
+'mad men'/
 'madam secretary'/
 "marvel's agents of S.H.I.E.L.D"/
 "marvel's runaways"/
@@ -73,6 +84,7 @@
  smallville/
 'sons of anarchy'/
 'south park'/
+'star trek picard'/
 'star wars forces of destiny'/
 'star wars rebels'/
 'star wars resistance'/
@@ -95,6 +107,8 @@
 'the newsroom'/
 'the originals'/
 'the outsider'/
+'the pacific'/
+'the pyramid code'/
 'the resident'/
 'the rookie'/
 'the shield'/
