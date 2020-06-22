@@ -24,6 +24,7 @@
  firefly/
  friends/
  fringe/
+'girl meets world'/
  gotham/
  hannibal/
 'hell on wheels'/
@@ -59,6 +60,7 @@
 'project blue book'/
  riverdale/
  rome/
+ roots/
 'royal pains'/
 'saved by the bell'/
 'saved by the bell - the college years'/
