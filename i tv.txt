@@ -37,6 +37,7 @@
  jett/
 'killing eve'/
  legacies/
+ life/
 "marvel's runaways"/
  merlin/
  mindhunter/
@@ -49,6 +50,7 @@
 'prison break'/
 'prodigal son'/
  quantico/
+ revolution/
  rome/
 'royal pains'/
  s.w.a.t/

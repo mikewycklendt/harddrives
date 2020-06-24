@@ -73,6 +73,7 @@
  psych/
  quantico/
 'rescue me'/
+ revolution/
  riverdale/
  roots/
  s.w.a.t/
