@@ -23,10 +23,12 @@
  castle/
  chernobyl/
 'criminal minds'/
+'dark matter'/
 "DC's legends of tomorrow"/
 'deep space'/
  devs/
  dexter/
+ dominion/
  entourage/
  er/
 'friday night lights'/
@@ -38,6 +40,7 @@
  homeland/
  house/
 'house of cards'/
+ humans/
  hunters/
 'Into the West'/
  journeyman/
@@ -72,6 +75,7 @@
 'project blue book'/
  psych/
  quantico/
+ reign/
 'rescue me'/
  revolution/
  riverdale/
@@ -127,6 +131,7 @@
 'UFOs - The Lost Evidence'/
 'Unsealed - Alien Files'/
  upload/
+'v (2009)'/
  vikings/
  watchmen/
  workaholics/

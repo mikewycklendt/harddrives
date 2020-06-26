@@ -22,6 +22,7 @@
 "dawson's creek"/
 'deep space'/
 'desperate housewives'/
+ dominion/
  dracula/
  entourage/
  firefly/
@@ -35,6 +36,7 @@
  house/
 'its always sunny in philadelphia'/
 'jack ryan'/
+ jericho/
  journeyman/
  justified/
 'killer inside the mind of aaron hernandez'/
@@ -51,6 +53,7 @@
 'nip tuck'/
 'once upon a time'/
 'parks and recreation'/
+ reign/
 'rescue me'/
  scrubs/
  seinfeld/
@@ -77,6 +80,7 @@
  titans/
 'true blood'/
 'under the dome'/
+'v (2009)'/
 'veronica mars'/
  watchmen/
  weeds/

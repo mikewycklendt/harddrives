@@ -13,6 +13,7 @@
 "dawson's creek"/
 "DC's legends of tomorrow"/
  deadwood/
+ defiance/
 'desperate housewives'/
  devs/
 'doom patrol'/
@@ -37,6 +38,8 @@
 'killing eve'/
  krypton/
 'Kyle XY'/
+'last week tonight with john oliver'/
+ life/
  lost/
 'madam secretary'/
 "marvel's agents of S.H.I.E.L.D"/

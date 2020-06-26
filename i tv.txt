@@ -23,6 +23,7 @@
  chernobyl/
  chuck/
  community/
+'dark matter'/
  deadwood/
  dexter/
 'doom patrol'/
@@ -33,9 +34,12 @@
  hannibal/
  heroes/
 'how i met your mother'/
+ humans/
  hunters/
+ jericho/
  jett/
 'killing eve'/
+'last week tonight with john oliver'/
  legacies/
  life/
 "marvel's runaways"/
