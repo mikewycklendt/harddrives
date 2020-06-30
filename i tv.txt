@@ -13,6 +13,7 @@
 'better call saul'/
  beyond/
  billions/
+'black lightning'/
 'black mirror'/
 'blue planet'/
 'blue planet 2'/
