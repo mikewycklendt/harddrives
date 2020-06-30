@@ -32,6 +32,7 @@
  fargo/
  fbi/
 'fbi most wanted'/
+ hanna/
  hannibal/
  heroes/
 'how i met your mother'/
