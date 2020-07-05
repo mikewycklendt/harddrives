@@ -23,6 +23,7 @@
  fargo/
  fbi/
 'fbi most wanted'/
+'fear the walking dead'/
  firefly/
  friends/
  fringe/
@@ -73,6 +74,8 @@
 'silicon valley'/
 'six feet under'/
  southland/
+ spartacus/
+'spartacus gods of the arena'/
 'star trek discovery'/
 'star wars forces of destiny'/
 'star wars rebels'/

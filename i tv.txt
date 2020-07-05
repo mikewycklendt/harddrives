@@ -67,6 +67,8 @@
 'six feet under'/
 'sleepy hollow'/
  southland/
+ spartacus/
+'spartacus gods of the arena'/
 'star trek picard'/
  succession/
  suits/
