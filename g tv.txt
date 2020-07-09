@@ -26,12 +26,14 @@
 'dark matter'/
 "DC's legends of tomorrow"/
 'deep space'/
+'defending jacob'/
  devs/
  dexter/
  dominion/
  entourage/
  er/
 'fear the walking dead'/
+'for all mankind'/
 'friday night lights'/
 'full house'/
 'game of thrones'/
@@ -60,6 +62,8 @@
 'money heist'/
 'mr robot'/
 'my boys'/
+'my name is earl'/
+'mythic quest ravens banquet'/
  narcos/
 'narcos mexico'/
  nashville/
@@ -111,6 +115,7 @@
 'the fresh prince of bel air'/
 'the killing'/
 'the league'/
+'the leftovers'/
 'the mandalorian'/
 'the new pope'/
 'the newsroom'/

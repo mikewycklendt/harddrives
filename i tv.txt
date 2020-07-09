@@ -26,12 +26,14 @@
  community/
 'dark matter'/
  deadwood/
+'defending jacob'/
  dexter/
 'doom patrol'/
  empire/
  fargo/
  fbi/
 'fbi most wanted'/
+'for all mankind'/
  hanna/
  hannibal/
  heroes/
@@ -48,6 +50,8 @@
  merlin/
  mindhunter/
 'my boys'/
+'my name is earl'/
+'mythic quest ravens banquet'/
 'nathan for you'/
 'oj made in america'/
 'planet earth'/
