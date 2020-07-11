@@ -11,7 +11,6 @@
 'blue planet'/
 'blue planet 2'/
 'boardwalk empire'/
-'boy meets world'/
 'breaking bad'/
 'brooklyn nine-nine'/
  chernobyl/
@@ -74,7 +73,6 @@
 'star wars rebels'/
 'star wars resistance'/
 'star wars the clone wars'/
- suits/
  supergirl/
 'tales from the loop'/
 'The 4400'/
