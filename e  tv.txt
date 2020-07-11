@@ -8,6 +8,7 @@
 'black lightning'/
 'boy meets world'/
 'buffy the vampire slayer'/
+ caprica/
 'curb your enthusiasm'/
 "da vinci's demons"/
  damages/

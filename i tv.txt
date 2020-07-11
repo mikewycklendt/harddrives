@@ -21,6 +21,7 @@
 'boston public'/
 'brooklyn nine-nine'/
 'burn notice'/
+ caprica/
  chernobyl/
  chuck/
  community/
