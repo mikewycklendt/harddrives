@@ -1,6 +1,4 @@
 '1600 penn'/
- 9-1-1/
-'9-1-1 lone star'/
 'all american'/
 'american gods'/
  angel/
@@ -14,12 +12,10 @@
  beyond/
  billions/
 'black lightning'/
-'black mirror'/
 'blue planet'/
 'blue planet 2'/
 'boardwalk empire'/
 'boston public'/
-'brooklyn nine-nine'/
 'burn notice'/
  caprica/
  chernobyl/
@@ -28,7 +24,6 @@
 'dark matter'/
  deadwood/
 'defending jacob'/
- dexter/
 'doom patrol'/
  empire/
  fargo/
@@ -37,7 +32,6 @@
 'for all mankind'/
  hanna/
  hannibal/
- heroes/
 'how i met your mother'/
  humans/
  hunters/
@@ -45,30 +39,21 @@
  jett/
 'killing eve'/
 'last week tonight with john oliver'/
- legacies/
  life/
 "marvel's runaways"/
- merlin/
  mindhunter/
 'my boys'/
 'my name is earl'/
 'mythic quest ravens banquet'/
 'nathan for you'/
 'oj made in america'/
-'planet earth'/
-'planet earth 2'/
- power/
-'prison break'/
 'prodigal son'/
- quantico/
  revolution/
  rome/
 'royal pains'/
- s.w.a.t/
 'seal team'/
  sherlock/
  shooter/
- six/
 'six feet under'/
 'sleepy hollow'/
  southland/
@@ -92,11 +77,9 @@
 'the pacific'/
 'the pyramid code'/
 'the resident'/
-'the shield'/
 'true detective'/
 'tvf pitchers'/
  upload/
- vikings/
 'when they see us'/
  wonderland/
  yellowstone/

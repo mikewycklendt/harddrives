@@ -1,4 +1,3 @@
-'12 monkeys'/
 '1600 penn'/
 'all american'/
  atlanta/
@@ -32,28 +31,21 @@
  gotham/
  hannibal/
 'hell on wheels'/
- homeland/
 'Into the West'/
 'its always sunny in philadelphia'/
 'jack ryan'/
  jett/
  justified/
 'killing eve'/
- krypton/
-'Kyle XY'/
 'last week tonight with john oliver'/
  life/
  lost/
-'madam secretary'/
-"marvel's agents of S.H.I.E.L.D"/
 "marvel's daredevil"/
 "marvel's iron fist"/
 "marvel's luke cage"/
 "marvel's the punisher"/
  mindhunter/
 'modern family'/
-'money heist'/
-'mr robot'/
  narcos/
 'narcos mexico'/
 'new amsterdam'/
@@ -72,16 +64,11 @@
  scrubs/
 'seal team'/
  seinfeld/
-'silicon valley'/
 'six feet under'/
  southland/
  spartacus/
 'spartacus gods of the arena'/
 'star trek discovery'/
-'star wars forces of destiny'/
-'star wars rebels'/
-'star wars resistance'/
-'star wars the clone wars'/
 'stargate atlantis'/
 'stargate origins'/
 'stargate sg-1'/
@@ -97,19 +84,15 @@
 'The 4400'/
 'the boys'/
 'the chicago code'/
-'the flash'/
-'the following'/
 'the last kingdom'/
 'the leftovers'/
 'the mandalorian'/
 'the new pope'/
-'the newsroom'/
 'the o.c'/
 'the office'/
 'the rookie'/
 'the sopranos'/
 'the tesla files'/
-'the unit'/
 'the wire'/
 'the witcher'/
 'the x-files'/
@@ -126,4 +109,3 @@
 'when they see us'/
  wonderland/
  yellowstone/
-'young justice'/

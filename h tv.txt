@@ -1,44 +1,32 @@
 '12 monkeys'/
- 24/
-'30 rock'/
  9-1-1/
 '9-1-1 lone star'/
  alias/
-'ancient aliens'/
 'ancient civilizations'/
- archer/
 'Band of Brothers'/
  batwoman/
  beyond/
-'big little lies'/
+ billions/
 'black mirror'/
+'blue planet'/
+'blue planet 2'/
+'boardwalk empire'/
 'boy meets world'/
 'breaking bad'/
 'brooklyn nine-nine'/
-'burn notice'/
- castle/
  chernobyl/
+'children of dune'/
 'criminal minds'/
-'dark matter'/
+"DC's legends of tomorrow"/
 'deep space'/
-'defending jacob'/
  devs/
  dexter/
- dominion/
- entourage/
- er/
-'fear the walking dead'/
-'for all mankind'/
-'friday night lights'/
-'full house'/
-'game of thrones'/
-'girl meets world'/
+ dune/
 'hangar 1 - the ufo files'/
- hanna/
-'hawaii five-0'/
+ heroes/
  homeland/
  house/
- humans/
+'house of cards'/
  hunters/
 'Into the West'/
  journeyman/
@@ -46,9 +34,6 @@
  krypton/
 'Kyle XY'/
  legacies/
- leverage/
- life/
-'mad men'/
 'madam secretary'/
 "marvel's agents of S.H.I.E.L.D"/
 "marvel's runaways"/
@@ -56,15 +41,16 @@
 'money heist'/
 'mr robot'/
 'my boys'/
-'my name is earl'/
-'mythic quest ravens banquet'/
  narcos/
 'narcos mexico'/
  nashville/
 'nathan for you'/
 'new amsterdam'/
 'nip tuck'/
+ numb3rs/
+'once upon a time'/
  ozark/
+'person of interest'/
 'planet earth'/
 'planet earth 2'/
  power/
@@ -72,11 +58,8 @@
 'project blue book'/
  psych/
  quantico/
- reign/
 'rescue me'/
- revolution/
  riverdale/
- roots/
  s.w.a.t/
 'saved by the bell'/
 'saved by the bell - the college years'/
@@ -85,46 +68,40 @@
 'silicon valley'/
  six/
 'sleepy hollow'/
- smallville/
 'sons of anarchy'/
 'south park'/
-'star trek picard'/
 'star wars forces of destiny'/
 'star wars rebels'/
 'star wars resistance'/
 'star wars the clone wars'/
  suits/
+ supergirl/
 'tales from the loop'/
 'The 4400'/
+'the americans'/
 'the blacklist'/
+'the expanse'/
 'the family man'/
 'the flash'/
 'the following'/
-'the fresh prince of bel air'/
 'the killing'/
-'the league'/
-'the leftovers'/
 'the mandalorian'/
 'the new pope'/
 'the newsroom'/
-'the originals'/
 'the outsider'/
-'the pacific'/
-'the pyramid code'/
 'the resident'/
 'the rookie'/
 'the shield'/
 'the tesla files'/
 'the unit'/
+'the vampire diaries'/
+'the walking dead'/
+'the west wing'/
 'the witcher'/
 'the young pope'/
 'tiger king'/
 'true detective'/
-'UFOs - The Lost Evidence'/
-'Unsealed - Alien Files'/
  upload/
-'v (2009)'/
  vikings/
  watchmen/
- workaholics/
 'young justice'/
