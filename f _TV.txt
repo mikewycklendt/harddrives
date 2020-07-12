@@ -2,13 +2,11 @@
  defiance/
  er/
 'full house'/
-'hangar 1 - the ufo files'/
 'house of cards'/
 'how i met your mother'/
  leverage/
  numb3rs/
 'person of interest'/
- psych/
 'south park'/
 'the fresh prince of bel air'/
 'the killing'/

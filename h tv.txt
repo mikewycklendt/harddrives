@@ -1,11 +1,6 @@
 '12 monkeys'/
  9-1-1/
 '9-1-1 lone star'/
- alias/
-'ancient civilizations'/
-'Band of Brothers'/
- batwoman/
- beyond/
  billions/
 'black mirror'/
 'blue planet'/
@@ -13,12 +8,9 @@
 'boardwalk empire'/
 'breaking bad'/
 'brooklyn nine-nine'/
- chernobyl/
 'children of dune'/
 'criminal minds'/
 "DC's legends of tomorrow"/
-'deep space'/
- devs/
  dexter/
  dune/
 'hangar 1 - the ufo files'/
@@ -26,10 +18,6 @@
  homeland/
  house/
 'house of cards'/
- hunters/
-'Into the West'/
- journeyman/
-'killer inside the mind of aaron hernandez'/
  krypton/
 'Kyle XY'/
  legacies/
@@ -39,12 +27,9 @@
  merlin/
 'money heist'/
 'mr robot'/
-'my boys'/
  narcos/
 'narcos mexico'/
  nashville/
-'nathan for you'/
-'new amsterdam'/
 'nip tuck'/
  numb3rs/
 'once upon a time'/
@@ -63,12 +48,10 @@
 'saved by the bell'/
 'saved by the bell - the college years'/
  sherlock/
- shooter/
 'silicon valley'/
  six/
 'sleepy hollow'/
 'sons of anarchy'/
-'south park'/
 'star wars forces of destiny'/
 'star wars rebels'/
 'star wars resistance'/

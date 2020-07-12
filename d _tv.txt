@@ -10,12 +10,10 @@
 'battlestar galactica'/
 'better call saul'/
 'boston public'/
-'breaking bad'/
 'buffy the vampire slayer'/
  castle/
  chuck/
  community/
-'criminal minds'/
 'curb your enthusiasm'/
 "da vinci's demons"/
  damages/
@@ -54,7 +52,6 @@
 'once upon a time'/
 'parks and recreation'/
  reign/
-'rescue me'/
  scrubs/
  seinfeld/
  smallville/

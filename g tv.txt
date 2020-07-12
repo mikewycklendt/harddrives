@@ -36,6 +36,7 @@
 'hangar 1 - the ufo files'/
  hanna/
 'hawaii five-0'/
+ heroes/
  homeland/
  house/
  humans/
@@ -48,6 +49,7 @@
  legacies/
  leverage/
  life/
+ louie/
 'mad men'/
 'madam secretary'/
 "marvel's agents of S.H.I.E.L.D"/
@@ -60,10 +62,8 @@
 'mythic quest ravens banquet'/
  narcos/
 'narcos mexico'/
- nashville/
 'nathan for you'/
 'new amsterdam'/
-'nip tuck'/
  ozark/
 'planet earth'/
 'planet earth 2'/
@@ -78,15 +78,12 @@
  riverdale/
  roots/
  s.w.a.t/
-'saved by the bell'/
-'saved by the bell - the college years'/
  sherlock/
  shooter/
 'silicon valley'/
  six/
 'sleepy hollow'/
  smallville/
-'sons of anarchy'/
 'south park'/
 'star trek picard'/
 'star wars forces of destiny'/
@@ -114,15 +111,10 @@
 'the resident'/
 'the rookie'/
 'the shield'/
-'the tesla files'/
 'the unit'/
-'the witcher'/
-'the young pope'/
 'tiger king'/
-'true detective'/
 'UFOs - The Lost Evidence'/
 'Unsealed - Alien Files'/
- upload/
 'v (2009)'/
  vikings/
  watchmen/

@@ -46,12 +46,9 @@
 "marvel's the punisher"/
  mindhunter/
 'modern family'/
- narcos/
-'narcos mexico'/
 'new amsterdam'/
 'new girl'/
 'oj made in america'/
- ozark/
 'parks and recreation'/
 'prodigal son'/
 'project blue book'/
@@ -81,29 +78,23 @@
  taken/
 'terminator - the sarah connor chronicles'/
 'the 100'/
-'The 4400'/
 'the boys'/
 'the chicago code'/
 'the last kingdom'/
 'the leftovers'/
-'the mandalorian'/
-'the new pope'/
 'the o.c'/
 'the office'/
-'the rookie'/
 'the sopranos'/
 'the tesla files'/
 'the wire'/
 'the witcher'/
 'the x-files'/
 'the young pope'/
-'tiger king'/
  titans/
 'true blood'/
 'tvf pitchers'/
 'under the dome'/
 'veronica mars'/
- watchmen/
  weeds/
  westworld/
 'when they see us'/
