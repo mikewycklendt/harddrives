@@ -1,6 +1,8 @@
 '12 monkeys'/
  9-1-1/
 '9-1-1 lone star'/
+'american crime story'/
+ banshee/
  billions/
 'black mirror'/
 'blue planet'/
@@ -13,6 +15,7 @@
 "DC's legends of tomorrow"/
  dexter/
  dune/
+'halt and catch fire'/
 'hangar 1 - the ufo files'/
  heroes/
  homeland/
@@ -21,9 +24,12 @@
  krypton/
 'Kyle XY'/
  legacies/
+ louie/
+ lucifer/
 'madam secretary'/
 "marvel's agents of S.H.I.E.L.D"/
 "marvel's runaways"/
+'master of none'/
  merlin/
 'money heist'/
 'mr robot'/
@@ -33,7 +39,9 @@
 'nip tuck'/
  numb3rs/
 'once upon a time'/
+ outlander/
  ozark/
+'party down'/
 'person of interest'/
 'planet earth'/
 'planet earth 2'/
@@ -47,6 +55,7 @@
  s.w.a.t/
 'saved by the bell'/
 'saved by the bell - the college years'/
+'sharp objects'/
  sherlock/
 'silicon valley'/
  six/
@@ -57,7 +66,9 @@
 'star wars resistance'/
 'star wars the clone wars'/
  supergirl/
+ superstore/
 'tales from the loop'/
+ terriers/
 'The 4400'/
 'the americans'/
 'the blacklist'/
@@ -65,6 +76,7 @@
 'the family man'/
 'the flash'/
 'the following'/
+'the good place'/
 'the killing'/
 'the mandalorian'/
 'the new pope'/
@@ -81,8 +93,11 @@
 'the witcher'/
 'the young pope'/
 'tiger king'/
+ treme/
 'true detective'/
  upload/
+ veep/
  vikings/
  watchmen/
 'young justice'/
+"you're the worst"/

@@ -4,10 +4,12 @@
  9-1-1/
 '9-1-1 lone star'/
  alias/
+'american crime story'/
 'ancient aliens'/
 'ancient civilizations'/
  archer/
 'Band of Brothers'/
+ banshee/
  batwoman/
  beyond/
 'big little lies'/
@@ -33,6 +35,7 @@
 'full house'/
 'game of thrones'/
 'girl meets world'/
+'halt and catch fire'/
 'hangar 1 - the ufo files'/
  hanna/
 'hawaii five-0'/
@@ -50,10 +53,12 @@
  leverage/
  life/
  louie/
+ lucifer/
 'mad men'/
 'madam secretary'/
 "marvel's agents of S.H.I.E.L.D"/
 "marvel's runaways"/
+'master of none'/
  merlin/
 'money heist'/
 'mr robot'/
@@ -64,7 +69,9 @@
 'narcos mexico'/
 'nathan for you'/
 'new amsterdam'/
+ outlander/
  ozark/
+'party down'/
 'planet earth'/
 'planet earth 2'/
  power/
@@ -78,6 +85,7 @@
  riverdale/
  roots/
  s.w.a.t/
+'sharp objects'/
  sherlock/
  shooter/
 'silicon valley'/
@@ -91,13 +99,16 @@
 'star wars resistance'/
 'star wars the clone wars'/
  suits/
+ superstore/
 'tales from the loop'/
+ terriers/
 'The 4400'/
 'the blacklist'/
 'the family man'/
 'the flash'/
 'the following'/
 'the fresh prince of bel air'/
+'the good place'/
 'the killing'/
 'the league'/
 'the leftovers'/
@@ -113,10 +124,13 @@
 'the shield'/
 'the unit'/
 'tiger king'/
+ treme/
 'UFOs - The Lost Evidence'/
 'Unsealed - Alien Files'/
 'v (2009)'/
+ veep/
  vikings/
  watchmen/
  workaholics/
 'young justice'/
+"you're the worst"/
