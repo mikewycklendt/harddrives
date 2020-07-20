@@ -12,6 +12,7 @@
 "da vinci's demons"/
  damages/
 "dawson's creek"/
+'day break'/
 "DC's legends of tomorrow"/
  deadwood/
  defiance/
@@ -25,6 +26,7 @@
 'fbi most wanted'/
 'fear the walking dead'/
  firefly/
+ frequency/
  friends/
  fringe/
 'girl meets world'/
@@ -40,6 +42,7 @@
 'last week tonight with john oliver'/
  life/
  lost/
+ macgyver/
 "marvel's daredevil"/
 "marvel's iron fist"/
 "marvel's luke cage"/

@@ -20,6 +20,7 @@
 'burn notice'/
  castle/
  chernobyl/
+'covert affairs'/
 'criminal minds'/
 'dark matter'/
 'deep space'/

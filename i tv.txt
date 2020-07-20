@@ -21,7 +21,9 @@
  chernobyl/
  chuck/
  community/
+'covert affairs'/
 'dark matter'/
+'day break'/
  deadwood/
 'defending jacob'/
 'doom patrol'/
@@ -30,6 +32,7 @@
  fbi/
 'fbi most wanted'/
 'for all mankind'/
+ frequency/
  hanna/
  hannibal/
 'how i met your mother'/
@@ -40,6 +43,7 @@
 'killing eve'/
 'last week tonight with john oliver'/
  life/
+ macgyver/
 "marvel's runaways"/
  mindhunter/
 'my boys'/
