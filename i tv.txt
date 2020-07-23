@@ -42,9 +42,15 @@
  jett/
 'killing eve'/
 'last week tonight with john oliver'/
+ legion/
  life/
  macgyver/
+"marvel's agent carter"/
+"marvel's cloak and dagger"/
+"marvel's inhumans"/
+"marvel's jessica jones"/
 "marvel's runaways"/
+"marvel's the defenders"/
  mindhunter/
 'my boys'/
 'my name is earl'/
@@ -52,6 +58,7 @@
 'nathan for you'/
 'oj made in america'/
 'prodigal son'/
+'raising hope'/
  revolution/
  rome/
 'royal pains'/
@@ -70,6 +77,7 @@
 'the boys'/
 'the chicago code'/
 'the expanse'/
+'the gifted'/
 'the last kingdom'/
 'the mentalist'/
 'the pacific'/

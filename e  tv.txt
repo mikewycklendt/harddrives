@@ -40,12 +40,17 @@
  justified/
 'killing eve'/
 'last week tonight with john oliver'/
+ legion/
  life/
  lost/
  macgyver/
+"marvel's cloak and dagger"/
 "marvel's daredevil"/
+"marvel's inhumans"/
 "marvel's iron fist"/
+"marvel's jessica jones"/
 "marvel's luke cage"/
+"marvel's the defenders"/
 "marvel's the punisher"/
  mindhunter/
 'modern family'/
@@ -83,6 +88,7 @@
 'the 100'/
 'the boys'/
 'the chicago code'/
+'the gifted'/
 'the last kingdom'/
 'the leftovers'/
 'the o.c'/
