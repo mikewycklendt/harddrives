@@ -21,6 +21,7 @@
  chernobyl/
  chuck/
  community/
+ corporate/
 'covert affairs'/
 'dark matter'/
 'day break'/
@@ -40,6 +41,7 @@
  hunters/
  jericho/
  jett/
+ joey/
 'killing eve'/
 'last week tonight with john oliver'/
  legion/
