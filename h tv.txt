@@ -18,6 +18,7 @@
 'halt and catch fire'/
 'hangar 1 - the ufo files'/
  heroes/
+ homecoming/
  homeland/
  house/
 'house of cards'/
@@ -35,6 +36,7 @@
 'mr robot'/
  narcos/
 'narcos mexico'/
+"nasa's unexplained files"/
  nashville/
 'nip tuck'/
  numb3rs/
@@ -60,6 +62,7 @@
 'silicon valley'/
  six/
 'sleepy hollow'/
+'sneaky pete'/
 'sons of anarchy'/
 'star wars forces of destiny'/
 'star wars rebels'/
@@ -78,6 +81,7 @@
 'the following'/
 'the good place'/
 'the killing'/
+'the man in the high castle'/
 'the mandalorian'/
 'the new pope'/
 'the newsroom'/

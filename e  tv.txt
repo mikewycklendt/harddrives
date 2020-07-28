@@ -5,6 +5,7 @@
  batwoman/
 'big little lies'/
 'black lightning'/
+ bosch/
 'boy meets world'/
 'buffy the vampire slayer'/
  caprica/
@@ -22,6 +23,7 @@
 'doom patrol'/
  dracula/
  empire/
+ episodes/
  fargo/
  fbi/
 'fbi most wanted'/
@@ -41,6 +43,7 @@
  joey/
  justified/
 'killing eve'/
+'las vegas'/
 'last week tonight with john oliver'/
  legion/
  life/
@@ -72,6 +75,7 @@
 'seal team'/
  seinfeld/
 'six feet under'/
+'sneaky pete'/
  southland/
  spartacus/
 'spartacus gods of the arena'/
@@ -101,6 +105,7 @@
 'the witcher'/
 'the x-files'/
 'the young pope'/
+'this is us'/
  titans/
 'true blood'/
 'tvf pitchers'/

@@ -15,6 +15,7 @@
 'blue planet'/
 'blue planet 2'/
 'boardwalk empire'/
+ bosch/
 'boston public'/
 'burn notice'/
  caprica/
@@ -43,6 +44,7 @@
  jett/
  joey/
 'killing eve'/
+'las vegas'/
 'last week tonight with john oliver'/
  legion/
  life/
@@ -87,6 +89,7 @@
 'true detective'/
 'tvf pitchers'/
  upload/
+'warehouse 13'/
 'when they see us'/
  wonderland/
  yellowstone/

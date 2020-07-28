@@ -1,4 +1,4 @@
-\'12 monkeys'/
+'12 monkeys'/
  24/
 '30 rock'/
  9-1-1/
@@ -20,6 +20,7 @@
 'burn notice'/
  castle/
  chernobyl/
+'cosmos a spacetime odessey'/
 'covert affairs'/
 'criminal minds'/
 'dark matter'/
@@ -29,6 +30,7 @@
  dexter/
  dominion/
  entourage/
+ episodes/
  er/
 'fear the walking dead'/
 'for all mankind'/
@@ -41,6 +43,7 @@
  hanna/
 'hawaii five-0'/
  heroes/
+ homecoming/
  homeland/
  house/
  humans/
@@ -68,6 +71,7 @@
 'mythic quest ravens banquet'/
  narcos/
 'narcos mexico'/
+"nasa's unexplained files"/
 'nathan for you'/
 'new amsterdam'/
  outlander/
@@ -113,6 +117,7 @@
 'the killing'/
 'the league'/
 'the leftovers'/
+'the man in the high castle'/
 'the mandalorian'/
 'the new pope'/
 'the newsroom'/
@@ -124,6 +129,7 @@
 'the rookie'/
 'the shield'/
 'the unit'/
+'this is us'/
 'tiger king'/
  treme/
 'UFOs - The Lost Evidence'/

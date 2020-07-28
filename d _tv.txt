@@ -11,9 +11,11 @@
 'better call saul'/
 'boston public'/
 'buffy the vampire slayer'/
+ californication/
  castle/
  chuck/
  community/
+'cosmos a spacetime odessey'/
 'curb your enthusiasm'/
 "da vinci's demons"/
  damages/
@@ -75,11 +77,13 @@
 'the vampire diaries'/
 'the walking dead'/
 'the wire'/
+ Through.the.Wormhole.2010-2017.Complete.S01-S08.720p.HDTV.x264/
  titans/
 'true blood'/
 'under the dome'/
 'v (2009)'/
 'veronica mars'/
+'warehouse 13'/
  watchmen/
  weeds/
  westworld/
