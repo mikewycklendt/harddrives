@@ -67,6 +67,7 @@
  rome/
 'royal pains'/
 'seal team'/
+ see/
  shooter/
 'six feet under'/
  southland/
@@ -84,6 +85,7 @@
 'the gifted'/
 'the last kingdom'/
 'the mentalist'/
+'the morning show'/
 'the pacific'/
 'the pyramid code'/
 'true detective'/

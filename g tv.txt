@@ -28,6 +28,7 @@
 'defending jacob'/
  devs/
  dexter/
+ dollhouse/
  dominion/
  entourage/
  episodes/
