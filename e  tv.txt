@@ -65,6 +65,7 @@
 'parks and recreation'/
 'prodigal son'/
 'project blue book'/
+'pushing daisies'/
  riverdale/
  rome/
  roots/

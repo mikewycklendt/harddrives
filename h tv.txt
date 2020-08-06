@@ -1,4 +1,4 @@
-\'12 monkeys'/
+'12 monkeys'/
  9-1-1/
 '9-1-1 lone star'/
 'american crime story'/
@@ -52,6 +52,7 @@
 'prison break'/
 'project blue book'/
  psych/
+'pushing daisies'/
  quantico/
 'rescue me'/
  riverdale/
@@ -101,6 +102,7 @@
  touch/
  treme/
 'true detective'/
+'twin peaks'/
  upload/
  veep/
  vikings/
