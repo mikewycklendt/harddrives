@@ -8,6 +8,8 @@
 'ancient aliens'/
 'ancient civilizations'/
  archer/
+'avatar the last airbender'/
+'avatar the legend of korra'/
 'Band of Brothers'/
  banshee/
  batwoman/
@@ -75,12 +77,14 @@
 "nasa's unexplained files"/
 'nathan for you'/
 'new amsterdam'/
+'our cartoon president'/
  outlander/
  ozark/
 'party down'/
 'planet earth'/
 'planet earth 2'/
  power/
+ preacher/
 'prison break'/
 'project blue book'/
  psych/

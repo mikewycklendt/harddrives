@@ -5,6 +5,7 @@
  batwoman/
 'big little lies'/
 'black lightning'/
+ bloodline/
  bosch/
 'boy meets world'/
 'buffy the vampire slayer'/
@@ -18,6 +19,7 @@
 "DC's legends of tomorrow"/
  deadwood/
  defiance/
+'designated survivor'/
 'desperate housewives'/
  devs/
 'doom patrol'/
@@ -32,6 +34,7 @@
  frequency/
  friends/
  fringe/
+ frontier/
 'girl meets world'/
  gotham/
  hannibal/
@@ -43,11 +46,13 @@
  joey/
  justified/
 'killing eve'/
+'kingdom (2014)'/
 'las vegas'/
 'last week tonight with john oliver'/
  legion/
  life/
  lost/
+'lost in space'/
  macgyver/
 "marvel's cloak and dagger"/
 "marvel's daredevil"/
@@ -61,8 +66,9 @@
 'modern family'/
 'new amsterdam'/
 'new girl'/
-'oj made in america'/
+'o.j. made in america'/
 'parks and recreation'/
+ preacher/
 'prodigal son'/
 'project blue book'/
 'pushing daisies'/
@@ -97,14 +103,17 @@
 'the 100'/
 'the boys'/
 'the chicago code'/
+'the first'/
 'the gifted'/
 'the last kingdom'/
 'the leftovers'/
+'the looming tower'/
 'the morning show'/
 'the o.c'/
 'the office'/
 'the sopranos'/
 'the tesla files'/
+'the umbrella academy'/
 'the wire'/
 'the witcher'/
 'the x-files'/
@@ -114,7 +123,9 @@
 'true blood'/
 'tvf pitchers'/
 'under the dome'/
+'utopia falls'/
 'veronica mars'/
+ waco/
  weeds/
  westworld/
 'when they see us'/

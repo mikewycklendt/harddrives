@@ -12,6 +12,7 @@
  beyond/
  billions/
 'black lightning'/
+ bloodline/
 'blue planet'/
 'blue planet 2'/
 'boardwalk empire'/
@@ -28,6 +29,7 @@
 'day break'/
  deadwood/
 'defending jacob'/
+'designated survivor'/
 'doom patrol'/
  empire/
  fargo/
@@ -35,6 +37,7 @@
 'fbi most wanted'/
 'for all mankind'/
  frequency/
+ frontier/
  hanna/
  hannibal/
 'how i met your mother'/
@@ -44,10 +47,12 @@
  jett/
  joey/
 'killing eve'/
+'kingdom (2014)'/
 'las vegas'/
 'last week tonight with john oliver'/
  legion/
  life/
+'lost in space'/
  macgyver/
 "marvel's agent carter"/
 "marvel's cloak and dagger"/
@@ -60,7 +65,7 @@
 'my name is earl'/
 'mythic quest ravens banquet'/
 'nathan for you'/
-'oj made in america'/
+'o.j. made in america'/
 'prodigal son'/
 'raising dion'/
 'raising hope'/
@@ -83,15 +88,20 @@
 'the boys'/
 'the chicago code'/
 'the expanse'/
+'the first'/
 'the gifted'/
 'the last kingdom'/
+'the looming tower'/
 'the mentalist'/
 'the morning show'/
 'the pacific'/
 'the pyramid code'/
+'the umbrella academy'/
 'true detective'/
 'tvf pitchers'/
  upload/
+'utopia falls'/
+ waco/
 'warehouse 13'/
 'when they see us'/
  wonderland/

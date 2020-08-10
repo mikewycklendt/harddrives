@@ -1,3 +1,4 @@
+ 11.22.63/
  24/
  alias/
 'american gods'/
@@ -57,6 +58,7 @@
  reign/
  scrubs/
  seinfeld/
+'sleeper cell'/
  smallville/
 'sons of anarchy'/
 'star trek discovery'/
@@ -68,6 +70,7 @@
 'studio 60 on the sunset strip'/
  supernatural/
 'terminator - the sarah connor chronicles'/
+'the bastard executioner'/
 'the league'/
 'the mentalist'/
 'the o.c'/
