@@ -51,8 +51,8 @@
 'las vegas'/
 'last week tonight with john oliver'/
  legion/
- life/
 'lost in space'/
+'lovecraft country'/
  macgyver/
 "marvel's agent carter"/
 "marvel's cloak and dagger"/
@@ -66,6 +66,7 @@
 'mythic quest ravens banquet'/
 'nathan for you'/
 'o.j. made in america'/
+'power book II ghost'/
 'prodigal son'/
 'raising dion'/
 'raising hope'/

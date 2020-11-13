@@ -20,6 +20,7 @@
  dune/
 'halt and catch fire'/
 'hangar 1 - the ufo files'/
+'hard knocks'/
  heroes/
  homecoming/
  homeland/
@@ -29,12 +30,14 @@
 'Kyle XY'/
  legacies/
  louie/
+'lovecraft country'/
  lucifer/
 'madam secretary'/
 "marvel's agents of S.H.I.E.L.D"/
 "marvel's runaways"/
 'master of none'/
  merlin/
+'modern love'/
 'money heist'/
 'mr robot'/
  narcos/
@@ -68,14 +71,18 @@
  six/
 'sleepy hollow'/
 'sneaky pete'/
+ snowpiercer/
 'sons of anarchy'/
+ southland/
 'star wars forces of destiny'/
 'star wars rebels'/
 'star wars resistance'/
 'star wars the clone wars'/
+ stargirl/
  supergirl/
  superstore/
 'tales from the loop'/
+'ted lasso'/
  terriers/
 'The 4400'/
 'the americans'/
@@ -107,6 +114,7 @@
 'true detective'/
 'twin peaks'/
  upload/
+ utopia/
  veep/
  vikings/
  watchmen/

@@ -93,6 +93,7 @@
 'stargate origins'/
 'stargate sg-1'/
 'stargate universe'/
+ stargirl/
 'stranger things'/
 'studio 60 on the sunset strip'/
  succession/
@@ -112,6 +113,7 @@
 'the o.c'/
 'the office'/
 'the sopranos'/
+'the story of god with morgan freeman'/
 'the tesla files'/
 'the umbrella academy'/
 'the wire'/
