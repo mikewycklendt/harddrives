@@ -118,6 +118,7 @@
  terriers/
 'The 4400'/
 'the blacklist'/
+'the crown'/
 'the family man'/
 'the flash'/
 'the following'/
