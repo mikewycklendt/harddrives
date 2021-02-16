@@ -135,6 +135,7 @@
 'the outsider'/
 'the pacific'/
 'the pyramid code'/
+'the queens gambit'/
 'the resident'/
 'the rookie'/
 'the shield'/

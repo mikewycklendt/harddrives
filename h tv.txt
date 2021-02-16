@@ -100,6 +100,7 @@
 'the new pope'/
 'the newsroom'/
 'the outsider'/
+'the queens gambit'/
 'the resident'/
 'the rookie'/
 'the shield'/
