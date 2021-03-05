@@ -128,6 +128,7 @@
 'utopia falls'/
 'veronica mars'/
  waco/
+ walker/
  weeds/
  westworld/
 'when they see us'/

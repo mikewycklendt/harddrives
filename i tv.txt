@@ -28,6 +28,7 @@
 'dark matter'/
 'day break'/
  deadwood/
+ debris/
 'defending jacob'/
 'designated survivor'/
 'doom patrol'/
@@ -38,6 +39,7 @@
 'for all mankind'/
  frequency/
  frontier/
+'halt and catch fire'/
  hanna/
  hannibal/
 'how i met your mother'/
@@ -103,6 +105,7 @@
  upload/
 'utopia falls'/
  waco/
+ walker/
 'warehouse 13'/
 'when they see us'/
  wonderland/

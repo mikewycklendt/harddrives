@@ -13,8 +13,10 @@
 'breaking bad'/
 'brooklyn nine-nine'/
 'children of dune'/
+'cosmos posssible worlds'/
 'criminal minds'/
 "DC's legends of tomorrow"/
+ debris/
  dexter/
  dollhouse/
  dune/
@@ -81,6 +83,7 @@
 'star wars the clone wars'/
  stargirl/
  supergirl/
+'superman and lois'/
  superstore/
 'tales from the loop'/
 'ted lasso'/

@@ -23,6 +23,7 @@
  castle/
  chernobyl/
 'cosmos a spacetime odessey'/
+'cosmos posssible worlds'/
 'covert affairs'/
 'criminal minds'/
 'dark matter'/
@@ -41,7 +42,6 @@
 'full house'/
 'game of thrones'/
 'girl meets world'/
-'halt and catch fire'/
 'hangar 1 - the ufo files'/
  hanna/
 'hard knocks'/
@@ -112,6 +112,7 @@
 'star wars resistance'/
 'star wars the clone wars'/
  suits/
+'superman and lois'/
  superstore/
 'tales from the loop'/
 'ted lasso'/
