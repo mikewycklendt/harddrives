@@ -129,6 +129,7 @@
 'veronica mars'/
  waco/
  walker/
+ wandavision/
  weeds/
  westworld/
 'when they see us'/

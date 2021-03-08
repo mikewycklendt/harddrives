@@ -123,6 +123,7 @@
  utopia/
  veep/
  vikings/
+ wandavision/
  watchmen/
 'young justice'/
 'your honor'/
