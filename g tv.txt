@@ -34,7 +34,6 @@
  dollhouse/
  dominion/
  entourage/
- episodes/
  er/
 'fear the walking dead'/
 'for all mankind'/
@@ -83,6 +82,7 @@
  outlander/
  ozark/
 'party down'/
+ pennyworth/
 'planet earth'/
 'planet earth 2'/
  power/
@@ -120,6 +120,7 @@
 'The 4400'/
 'the blacklist'/
 'the crown'/
+'the falcon and the winter soldier'/
 'the family man'/
 'the flash'/
 'the following'/

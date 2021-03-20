@@ -4,6 +4,7 @@
 'american crime story'/
 'avatar the last airbender'/
 'avatar the legend of korra'/
+ awake/
  banshee/
  billions/
 'black mirror'/
@@ -13,6 +14,7 @@
 'breaking bad'/
 'brooklyn nine-nine'/
 'children of dune'/
+ condor/
 'cosmos posssible worlds'/
 'criminal minds'/
 "DC's legends of tomorrow"/
@@ -20,6 +22,7 @@
  dexter/
  dollhouse/
  dune/
+ episodes/
 'halt and catch fire'/
 'hangar 1 - the ufo files'/
 'hard knocks'/
@@ -64,7 +67,6 @@
 'pushing daisies'/
  quantico/
 'rescue me'/
- riverdale/
  s.w.a.t/
 'saved by the bell'/
 'saved by the bell - the college years'/
@@ -93,6 +95,7 @@
 'the blacklist'/
 'the crown'/
 'the expanse'/
+'the falcon and the winter soldier'/
 'the family man'/
 'the flash'/
 'the following'/

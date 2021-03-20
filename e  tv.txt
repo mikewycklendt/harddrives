@@ -1,7 +1,6 @@
 '1600 penn'/
 'all american'/
  atlanta/
- awake/
  batwoman/
 'big little lies'/
 'black lightning'/
@@ -10,6 +9,7 @@
 'boy meets world'/
 'buffy the vampire slayer'/
  caprica/
+ condor/
  corporate/
 'curb your enthusiasm'/
 "da vinci's demons"/
