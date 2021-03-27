@@ -1,14 +1,9 @@
-'12 monkeys'/
- 24/
 '30 rock'/
  9-1-1/
 '9-1-1 lone star'/
- alias/
 'american crime story'/
 'ancient aliens'/
 'ancient civilizations'/
- archer/
-'avatar the last airbender'/
 'avatar the legend of korra'/
 'Band of Brothers'/
  banshee/
@@ -30,46 +25,31 @@
 'deep space'/
 'defending jacob'/
  devs/
- dexter/
  dollhouse/
  dominion/
  entourage/
  er/
 'fear the walking dead'/
 'for all mankind'/
-'friday night lights'/
-'full house'/
-'game of thrones'/
 'girl meets world'/
 'hangar 1 - the ufo files'/
- hanna/
-'hard knocks'/
-'hawaii five-0'/
- heroes/
  homecoming/
  homeland/
  house/
- humans/
  hunters/
 'Into the West'/
+ invincible/
  journeyman/
 'killer inside the mind of aaron hernandez'/
  krypton/
 'Kyle XY'/
  legacies/
  leverage/
- life/
- louie/
- lucifer/
-'mad men'/
-'madam secretary'/
-"marvel's agents of S.H.I.E.L.D"/
 "marvel's runaways"/
 'master of none'/
  merlin/
 'modern love'/
 'money heist'/
-'mr robot'/
 'my boys'/
 'my name is earl'/
 'mythic quest ravens banquet'/
@@ -83,16 +63,12 @@
  ozark/
 'party down'/
  pennyworth/
-'planet earth'/
-'planet earth 2'/
  power/
  preacher/
-'prison break'/
 'project blue book'/
  psych/
  quantico/
  reign/
-'rescue me'/
  revolution/
  riverdale/
  roots/
@@ -101,9 +77,6 @@
  sherlock/
  shooter/
 'silicon valley'/
- six/
-'sleepy hollow'/
- smallville/
  snowpiercer/
 'south park'/
 'star trek picard'/
@@ -114,6 +87,7 @@
  suits/
 'superman and lois'/
  superstore/
+'swamp thing'/
 'tales from the loop'/
 'ted lasso'/
  terriers/

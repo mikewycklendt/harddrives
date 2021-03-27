@@ -1,23 +1,17 @@
 '12 monkeys'/
- 9-1-1/
-'9-1-1 lone star'/
 'american crime story'/
 'avatar the last airbender'/
 'avatar the legend of korra'/
  awake/
- banshee/
  billions/
 'black mirror'/
 'blue planet'/
 'blue planet 2'/
 'boardwalk empire'/
 'breaking bad'/
-'brooklyn nine-nine'/
 'children of dune'/
  condor/
 'cosmos posssible worlds'/
-'criminal minds'/
-"DC's legends of tomorrow"/
  debris/
  dexter/
  dollhouse/
@@ -28,11 +22,7 @@
 'hard knocks'/
  heroes/
  homecoming/
- homeland/
- house/
-'house of cards'/
- krypton/
-'Kyle XY'/
+ invincible/
  legacies/
  louie/
 'lovecraft country'/
@@ -46,17 +36,11 @@
 'money heist'/
 'mr robot'/
  narcos/
-'narcos mexico'/
-"nasa's unexplained files"/
  nashville/
-'nip tuck'/
  numb3rs/
-'once upon a time'/
 'our cartoon president'/
- outlander/
  ozark/
 'party down'/
-'person of interest'/
 'planet earth'/
 'planet earth 2'/
  power/
@@ -76,17 +60,13 @@
  six/
 'sleepy hollow'/
 'sneaky pete'/
- snowpiercer/
-'sons of anarchy'/
- southland/
 'star wars forces of destiny'/
 'star wars rebels'/
 'star wars resistance'/
 'star wars the clone wars'/
  stargirl/
  supergirl/
-'superman and lois'/
- superstore/
+'swamp thing'/
 'tales from the loop'/
 'ted lasso'/
  terriers/
@@ -99,7 +79,6 @@
 'the family man'/
 'the flash'/
 'the following'/
-'the good place'/
 'the killing'/
 'the man in the high castle'/
 'the mandalorian'/

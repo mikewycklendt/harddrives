@@ -3,22 +3,11 @@
 'american gods'/
  angel/
 'arrersted development'/
- arrow/
  atlanta/
  awake/
 'Band of Brothers'/
-'battlestar galactica'/
-'better call saul'/
- beyond/
- billions/
-'black lightning'/
  bloodline/
-'blue planet'/
-'blue planet 2'/
-'boardwalk empire'/
- bosch/
 'boston public'/
-'burn notice'/
  caprica/
  chernobyl/
  chuck/
@@ -34,12 +23,9 @@
 'doom patrol'/
  empire/
  fargo/
- fbi/
-'fbi most wanted'/
 'for all mankind'/
  frequency/
  frontier/
-'halt and catch fire'/
  hanna/
  hannibal/
 'how i met your mother'/
@@ -48,14 +34,9 @@
  jericho/
  jett/
  joey/
-'killing eve'/
-'kingdom (2014)'/
-'las vegas'/
-'last week tonight with john oliver'/
  legion/
 'lost in space'/
 'lovecraft country'/
- macgyver/
 "marvel's agent carter"/
 "marvel's cloak and dagger"/
 "marvel's inhumans"/
@@ -64,7 +45,6 @@
 "marvel's the defenders"/
  mindhunter/
 'my boys'/
-'my name is earl'/
 'mythic quest ravens banquet'/
 'nathan for you'/
 'o.j. made in america'/
@@ -72,31 +52,21 @@
 'power book II ghost'/
 'prodigal son'/
 'raising dion'/
-'raising hope'/
  revolution/
  rome/
-'royal pains'/
 'seal team'/
  see/
- shooter/
-'six feet under'/
  southland/
  spartacus/
 'spartacus gods of the arena'/
 'star trek picard'/
  succession/
- suits/
  taken/
-'the 100'/
 'the americans'/
-'the boys'/
 'the chicago code'/
-'the expanse'/
 'the first'/
 'the gifted'/
-'the last kingdom'/
 'the looming tower'/
-'the mentalist'/
 'the morning show'/
 'the pacific'/
 'the pyramid code'/

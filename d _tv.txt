@@ -1,9 +1,5 @@
- 11.22.63/
  24/
  alias/
-'american gods'/
-'ancient aliens'/
-'ancient civilizations'/
  angel/
  archer/
 'arrersted development'/
@@ -21,12 +17,10 @@
 "da vinci's demons"/
  damages/
 "dawson's creek"/
-'deep space'/
 'desperate housewives'/
  dominion/
  dracula/
  entourage/
- firefly/
 'friday night lights'/
  friends/
  fringe/
@@ -35,12 +29,11 @@
 'hawaii five-0'/
 'hell on wheels'/
  house/
-'its always sunny in philadelphia'/
-'jack ryan'/
+'its always sunny in philadelphia
  jericho/
  journeyman/
  justified/
-'killer inside the mind of aaron hernandez'/
+'killer inside the mind of aaron
  krypton/
  lost/
 'mad men'/
@@ -61,15 +54,13 @@
 'sleeper cell'/
  smallville/
 'sons of anarchy'/
-'star trek discovery'/
 'stargate atlantis'/
 'stargate origins'/
 'stargate sg-1'/
 'stargate universe'/
-'stranger things'/
 'studio 60 on the sunset strip'/
  supernatural/
-'terminator - the sarah connor chronicles'/
+'terminator - the sarah connor ch
 'the bastard executioner'/
 'the league'/
 'the mentalist'/
@@ -81,14 +72,10 @@
 'the vampire diaries'/
 'the walking dead'/
 'the wire'/
- Through.the.Wormhole.2010-2017.Complete.S01-S08.720p.HDTV.x264/
- titans/
+ Through.the.Wormhole.2010-2017.C
 'true blood'/
 'under the dome'/
 'v (2009)'/
-'veronica mars'/
 'warehouse 13'/
- watchmen/
  weeds/
- westworld/
  workaholics/
