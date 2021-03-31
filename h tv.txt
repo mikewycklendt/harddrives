@@ -10,6 +10,7 @@
 'boardwalk empire'/
 'breaking bad'/
 'children of dune'/
+'city on a hill'/
  condor/
 'cosmos posssible worlds'/
  debris/
@@ -24,6 +25,7 @@
  homecoming/
  invincible/
  legacies/
+'lois and clark'/
  louie/
 'lovecraft country'/
  lucifer/
@@ -74,6 +76,7 @@
 'the americans'/
 'the blacklist'/
 'the crown'/
+'the curse of oak island'/
 'the expanse'/
 'the falcon and the winter soldier'/
 'the family man'/

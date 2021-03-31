@@ -66,6 +66,7 @@
 'las vegas'/
 'last week tonight with john oliver'/
  life/
+'lois and clark'/
  louie/
  lucifer/
  macgyver/
@@ -114,6 +115,7 @@
  superstore/
 'the 100'/
 'the boys'/
+'the curse of oak island'/
 'the expanse'/
 'the good place'/
 'the killing'/
