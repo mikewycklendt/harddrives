@@ -1,5 +1,6 @@
 '12 monkeys'/
 'american crime story'/
+'americas book of secrets special edition'/
 'avatar the last airbender'/
 'avatar the legend of korra'/
  awake/
@@ -51,6 +52,7 @@
 'project blue book'/
  psych/
 'pushing daisies'/
+'q into the storm'/
  quantico/
 'rescue me'/
  s.w.a.t/

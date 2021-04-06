@@ -2,13 +2,17 @@
  9-1-1/
 '9-1-1 lone star'/
 'american crime story'/
+'americas book of secrets'/
+'americas book of secrets special edition'/
 'ancient aliens'/
 'ancient civilizations'/
+'ancient impossible'/
 'avatar the legend of korra'/
 'Band of Brothers'/
  banshee/
  batwoman/
  beyond/
+'beyond oak island'/
 'big little lies'/
 'black mirror'/
 'boy meets world'/
@@ -67,6 +71,7 @@
  preacher/
 'project blue book'/
  psych/
+'q into the storm'/
  quantico/
  reign/
  revolution/
@@ -121,6 +126,7 @@
  treme/
 'twin peaks'/
 'UFOs - The Lost Evidence'/
+'unidentified inside americas ufo investigations'/
 'Unsealed - Alien Files'/
  utopia/
 'v (2009)'/
