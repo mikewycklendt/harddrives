@@ -19,6 +19,7 @@
  dollhouse/
  dune/
  episodes/
+'greys anatomy'/
 'halt and catch fire'/
 'hangar 1 - the ufo files'/
 'hard knocks'/

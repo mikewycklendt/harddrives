@@ -27,6 +27,7 @@
 'for all mankind'/
  frequency/
  frontier/
+'gangs of london'/
  hanna/
  hannibal/
 'how i met your mother'/
@@ -58,6 +59,7 @@
  rome/
 'seal team'/
  see/
+ shameless/
  southland/
  spartacus/
 'spartacus gods of the arena'/
