@@ -8,6 +8,7 @@
 'Band of Brothers'/
  bloodline/
 'boston public'/
+ britannia/
  caprica/
  chernobyl/
  chuck/
@@ -28,6 +29,7 @@
  frequency/
  frontier/
 'gangs of london'/
+'get shorty'/
  hanna/
  hannibal/
 'how i met your mother'/
@@ -36,6 +38,7 @@
  jericho/
  jett/
  joey/
+'kung fu'/
  legion/
 'lost in space'/
 'lovecraft country'/
@@ -52,6 +55,7 @@
 'nathan for you'/
 'o.j. made in america'/
  pennyworth/
+'perpetual grace ltd'/
 'power book II ghost'/
 'prodigal son'/
 'raising dion'/
@@ -70,6 +74,7 @@
 'the chicago code'/
 'the first'/
 'the gifted'/
+'the last narc'/
 'the looming tower'/
 'the morning show'/
 'the pacific'/
@@ -82,6 +87,7 @@
 'utopia falls'/
  waco/
  walker/
+'war of the worlds'/
 'warehouse 13'/
 'when they see us'/
  wonderland/

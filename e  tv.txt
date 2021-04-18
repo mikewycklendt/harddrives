@@ -1,5 +1,6 @@
 'americas book of secrets'/
  batwoman/
+'berlin station'/
 'beyond oak island'/
 'big little lies'/
 'black lightning'/
@@ -12,6 +13,7 @@
  damages/
 "DC's legends of tomorrow"/
  deadwood/
+'deep state'/
  defiance/
  devs/
 'doom patrol'/
@@ -22,11 +24,13 @@
  fbi/
 'fbi most wanted'/
  firefly/
+'frank of ireland'/
  frequency/
  friends/
  frontier/
 'gangs of london'/
 'girl meets world'/
+'godfather of harlem'/
  hannibal/
 'hell on wheels'/
 'Into the West'/
@@ -41,6 +45,7 @@
 'last week tonight with john oliver'/
  legion/
  life/
+'lincoln divided we stand'/
  lost/
 'lost in space'/
  macgyver/
@@ -56,6 +61,7 @@
  mindhunter/
 'new amsterdam'/
 'o.j. made in america'/
+ patriot/
 'prodigal son'/
 'project blue book'/
 'raising dion'/
@@ -80,6 +86,7 @@
  succession/
  supergirl/
  taken/
+'tell me your secrets'/
 'terminator - the sarah connor chronicles'/
 'the 100'/
 'the boys'/
@@ -87,6 +94,7 @@
 'the first'/
 'the gifted'/
 'the last kingdom'/
+'the last narc'/
 'the leftovers'/
 'the looming tower'/
 'the morning show'/
@@ -97,6 +105,7 @@
 'the story of god with morgan freeman'/
 'the tesla files'/
 'the umbrella academy'/
+'the wilds'/
 'the wire'/
 'the witcher'/
 'the x-files'/
@@ -112,9 +121,11 @@
  waco/
  walker/
  wandavision/
+'war of the worlds'/
  weeds/
  westworld/
 'when they see us'/
  wonderland/
  yellowstone/
 'your honor'/
+ zerozerozero/

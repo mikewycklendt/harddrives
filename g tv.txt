@@ -14,6 +14,7 @@
  beyond/
 'beyond oak island'/
 'big little lies'/
+'bionic woman (2007)'/
 'black mirror'/
 'boy meets world'/
 'breaking bad'/
@@ -27,6 +28,7 @@
 'criminal minds'/
 'dark matter'/
 'deep space'/
+'deep state'/
 'defending jacob'/
  devs/
  dollhouse/
@@ -47,9 +49,11 @@
  journeyman/
 'killer inside the mind of aaron hernandez'/
  krypton/
+'kung fu'/
 'Kyle XY'/
  legacies/
  leverage/
+'lincoln divided we stand'/
 "marvel's runaways"/
 'master of none'/
  merlin/
@@ -67,6 +71,7 @@
  outlander/
  ozark/
 'party down'/
+ patriot/
  pennyworth/
  power/
  preacher/
@@ -96,6 +101,7 @@
 'swamp thing'/
 'tales from the loop'/
 'ted lasso'/
+'tell me your secrets'/
  terriers/
 'The 4400'/
 'the blacklist'/
@@ -121,6 +127,7 @@
 'the resident'/
 'the rookie'/
 'the shield'/
+'the wilds'/
 'this is us'/
 'tiger king'/
  touch/
@@ -137,3 +144,4 @@
  workaholics/
 'young justice'/
 "you're the worst"/
+ zerozerozero/
