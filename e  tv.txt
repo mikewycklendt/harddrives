@@ -50,6 +50,7 @@
 'lost in space'/
  macgyver/
  manifest/
+'mare of easttown'/
 "marvel's cloak and dagger"/
 "marvel's daredevil"/
 "marvel's inhumans"/

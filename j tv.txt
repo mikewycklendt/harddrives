@@ -74,6 +74,7 @@
 'mad men'/
 'madam secretary'/
 "marvel's agents of S.H.I.E.L.D"/
+'mayans m.c'/
 'modern family'/
 'mr robot'/
 'my name is earl'/
@@ -125,6 +126,8 @@
 'the killing'/
 'the last kingdom'/
 'the mentalist'/
+'the people v the klan'/
+'the unxplained'/
  titans/
 'veronica mars'/
  watchmen/

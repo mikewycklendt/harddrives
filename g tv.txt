@@ -56,6 +56,7 @@
 'lincoln divided we stand'/
 "marvel's runaways"/
 'master of none'/
+'mayans m.c'/
  merlin/
 'modern love'/
 'money heist'/
@@ -127,6 +128,7 @@
 'the resident'/
 'the rookie'/
 'the shield'/
+'the unxplained'/
 'the wilds'/
 'this is us'/
 'tiger king'/
