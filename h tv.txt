@@ -21,6 +21,7 @@
  dollhouse/
  dune/
  episodes/
+'frank of ireland'/
 'get shorty'/
 'godfather of harlem'/
 'greys anatomy'/
@@ -60,9 +61,11 @@
 'q into the storm'/
  quantico/
 'rescue me'/
+'rutherford falls'/
  s.w.a.t/
 'saved by the bell'/
 'saved by the bell - the college years'/
+ servant/
 'sharp objects'/
  sherlock/
 'silicon valley'/
@@ -78,6 +81,7 @@
 'swamp thing'/
 'tales from the loop'/
 'ted lasso'/
+ tehran/
  terriers/
 'The 4400'/
 'the americans'/
@@ -92,6 +96,7 @@
 'the killing'/
 'the man in the high castle'/
 'the mandalorian'/
+'the nevers'/
 'the new pope'/
 'the newsroom'/
 'the outsider'/

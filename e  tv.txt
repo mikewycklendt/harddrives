@@ -51,6 +51,7 @@
  macgyver/
  manifest/
 'mare of easttown'/
+"marvel's agent carter"/
 "marvel's cloak and dagger"/
 "marvel's daredevil"/
 "marvel's inhumans"/
@@ -103,6 +104,7 @@
 'the office'/
 'the proof is out there'/
 'the sopranos'/
+'the stand (2020)'/
 'the story of god with morgan freeman'/
 'the tesla files'/
 'the umbrella academy'/

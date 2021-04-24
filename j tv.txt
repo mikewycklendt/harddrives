@@ -44,6 +44,7 @@
 'fbi most wanted'/
 'fear the walking dead'/
  firefly/
+'frank of ireland'/
 'friday night lights'/
  fringe/
 'full house'/
@@ -96,10 +97,12 @@
 'rescue me'/
  riverdale/
 'royal pains'/
+'rutherford falls'/
 'saved by the bell (2020)'/
  scrubs/
 'seal team'/
  seinfeld/
+ servant/
  shameless/
  shooter/
  six/
@@ -118,6 +121,7 @@
 'superman and lois'/
  supernatural/
  superstore/
+ tehran/
 'the 100'/
 'the boys'/
 'the curse of oak island'/
@@ -126,6 +130,7 @@
 'the killing'/
 'the last kingdom'/
 'the mentalist'/
+'the nevers'/
 'the people v the klan'/
 'the unxplained'/
  titans/

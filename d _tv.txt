@@ -6,6 +6,7 @@
  arrow/
 'battlestar galactica'/
 'better call saul'/
+ boss/
 'boston public'/
 'buffy the vampire slayer'/
  californication/
@@ -29,13 +30,15 @@
 'hawaii five-0'/
 'hell on wheels'/
  house/
-'its always sunny in philadelphia
+ ice/
+'its always sunny in philadelphia'/
  jericho/
  journeyman/
  justified/
-'killer inside the mind of aaron
+'killer inside the mind of aaron hernandez'/
  krypton/
  lost/
+ luther/
 'mad men'/
 "marvel's daredevil"/
 "marvel's iron fist"/
@@ -60,7 +63,7 @@
 'stargate universe'/
 'studio 60 on the sunset strip'/
  supernatural/
-'terminator - the sarah connor ch
+'terminator - the sarah connor chronicles'/
 'the bastard executioner'/
 'the league'/
 'the mentalist'/
@@ -72,8 +75,9 @@
 'the vampire diaries'/
 'the walking dead'/
 'the wire'/
- Through.the.Wormhole.2010-2017.C
+'through the wormhole'/
 'true blood'/
+ tyrant/
 'under the dome'/
 'v (2009)'/
 'warehouse 13'/
