@@ -1,19 +1,29 @@
  11.22.63/
+ alphas/
+ atlantis/
  boss/
  californication/
  defiance/
  er/
+ eureka/
 'full house'/
+ haven/
 'house of cards'/
  ice/
+'james camerons the story of science fiction'/
  leverage/
+'low winter sun'/
  luther/
  numb3rs/
+ olympus/
 'person of interest'/
+'robert kirkmans secret history of comics'/
 'sleeper cell'/
 'the bastard executioner'/
 'the fresh prince of bel air'/
+'the magicians'/
 'the story of god with morgan freeman'/
+'the undoing'/
 'the west wing'/
 'the x-files'/
 'through the wormhole'/

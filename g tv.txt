@@ -1,6 +1,7 @@
 '30 rock'/
  9-1-1/
 '9-1-1 lone star'/
+'a discovery of witches'/
 'american crime story'/
 'americas book of secrets'/
 'americas book of secrets special edition'/
@@ -44,6 +45,7 @@
  homeland/
  house/
  hunters/
+'into the badlands'/
 'Into the West'/
  invincible/
  journeyman/
@@ -54,6 +56,7 @@
  legacies/
  leverage/
 'lincoln divided we stand'/
+'line of duty'/
 "marvel's runaways"/
 'master of none'/
 'mayans m.c'/
@@ -113,6 +116,7 @@
 'the following'/
 'the fresh prince of bel air'/
 'the good place'/
+'the handmaids tale'/
 'the killing'/
 'the league'/
 'the leftovers'/

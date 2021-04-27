@@ -1,3 +1,4 @@
+ alphas/
 'americas book of secrets'/
  batwoman/
 'berlin station'/
@@ -6,6 +7,7 @@
 'black lightning'/
  bosch/
 'boy meets world'/
+"childhood's end"/
 'city on a hill'/
  condor/
  corporate/
@@ -18,6 +20,7 @@
  devs/
 'doom patrol'/
  dracula/
+ dune/
  episodes/
 'everybody hhates chris'/
  fargo/
@@ -40,6 +43,7 @@
  joey/
  justified/
 'killing eve'/
+ killjoys/
 'kingdom (2014)'/
 'las vegas'/
 'last week tonight with john oliver'/
@@ -48,6 +52,7 @@
 'lincoln divided we stand'/
  lost/
 'lost in space'/
+'lost relics of the knights templar'/
  macgyver/
  manifest/
 'mare of easttown'/
@@ -60,6 +65,7 @@
 "marvel's luke cage"/
 "marvel's the defenders"/
 "marvel's the punisher"/
+ mcmafia/
  mindhunter/
 'new amsterdam'/
 'o.j. made in america'/
@@ -67,9 +73,11 @@
 'prodigal son'/
 'project blue book'/
 'raising dion'/
+'resident alien'/
  rome/
  roots/
 'royal pains'/
+ sanctuary/
 'saved by the bell'/
 'saved by the bell - the college years'/
 'saved by the bell (2020)'/
@@ -103,6 +111,7 @@
 'the o.c'/
 'the office'/
 'the proof is out there'/
+'the secret story of the knights templar'/
 'the sopranos'/
 'the stand (2020)'/
 'the story of god with morgan freeman'/
@@ -120,8 +129,10 @@
 'under the dome'/
 'unidentified inside americas ufo investigations'/
 'utopia falls'/
+'van helsing'/
 'veronica mars'/
  waco/
+ wakefield/
  walker/
  wandavision/
 'war of the worlds'/
@@ -129,6 +140,7 @@
  westworld/
 'when they see us'/
  wonderland/
+'wynonna earp'/
  yellowstone/
 'your honor'/
  zerozerozero/

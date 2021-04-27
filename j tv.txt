@@ -5,6 +5,7 @@
 '30 rock'/
  9-1-1/
 '9-1-1 lone star'/
+'a discovery of witches'/
  alias/
 'all american'/
 'american gods'/
@@ -39,6 +40,7 @@
 'designated survivor'/
 'desperate housewives'/
  dexter/
+'dispatches from elsewhere'/
  empire/
  fbi/
 'fbi most wanted'/
@@ -60,6 +62,7 @@
 'house of cards'/
 'how i met your mother'/
  humans/
+'into the badlands'/
 'jack ryan'/
 'killing eve'/
 'kingdom (2014)'/
@@ -70,6 +73,7 @@
  life/
 'lois and clark'/
  louie/
+'low winter sun'/
  lucifer/
  macgyver/
 'mad men'/
@@ -127,12 +131,15 @@
 'the curse of oak island'/
 'the expanse'/
 'the good place'/
+'the handmaids tale'/
 'the killing'/
 'the last kingdom'/
 'the mentalist'/
 'the nevers'/
+'the night manager'/
 'the people v the klan'/
 'the unxplained'/
+'the walking dead world beyond'/
  titans/
 'veronica mars'/
  watchmen/

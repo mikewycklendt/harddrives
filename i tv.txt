@@ -11,6 +11,8 @@
  britannia/
  caprica/
  chernobyl/
+"childhood's end"/
+'children of dune'/
  chuck/
  community/
  corporate/
@@ -38,17 +40,20 @@
  jericho/
  jett/
  joey/
+ killjoys/
 'kung fu'/
  legion/
 'lost in space'/
 'lovecraft country'/
  manifest/
+'mare of easttown'/
 "marvel's agent carter"/
 "marvel's cloak and dagger"/
 "marvel's inhumans"/
 "marvel's jessica jones"/
 "marvel's runaways"/
 "marvel's the defenders"/
+ mcmafia/
  mindhunter/
 'my boys'/
 'mythic quest ravens banquet'/
@@ -59,8 +64,11 @@
 'power book II ghost'/
 'prodigal son'/
 'raising dion'/
+'resident alien'/
  revolution/
  rome/
+ rubicon/
+ sanctuary/
 'seal team'/
  see/
  shameless/
@@ -83,14 +91,18 @@
 'the pyramid code'/
 'the stand (2020)'/
 'the umbrella academy'/
+'the walking dead world beyond'/
 'true detective'/
 'tvf pitchers'/
  upload/
 'utopia falls'/
+'van helsing'/
  waco/
+ wakefield/
  walker/
 'war of the worlds'/
 'warehouse 13'/
 'when they see us'/
  wonderland/
+'wynonna earp'/
  yellowstone/

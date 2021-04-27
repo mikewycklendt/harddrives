@@ -4,6 +4,7 @@
  archer/
 'arrersted development'/
  arrow/
+ atlantis/
 'battlestar galactica'/
 'better call saul'/
  boss/
@@ -22,16 +23,19 @@
  dominion/
  dracula/
  entourage/
+ eureka/
 'friday night lights'/
  friends/
  fringe/
 'game of thrones'/
  gotham/
+ haven/
 'hawaii five-0'/
 'hell on wheels'/
  house/
  ice/
 'its always sunny in philadelphia'/
+'james camerons the story of science fiction'/
  jericho/
  journeyman/
  justified/
@@ -48,10 +52,12 @@
  nashville/
 'new girl'/
 'nip tuck'/
+ olympus/
 'once upon a time'/
 'parks and recreation'/
 'raising hope'/
  reign/
+'robert kirkmans secret history of comics'/
  scrubs/
  seinfeld/
 'sleeper cell'/
@@ -66,11 +72,13 @@
 'terminator - the sarah connor chronicles'/
 'the bastard executioner'/
 'the league'/
+'the magicians'/
 'the mentalist'/
 'the o.c'/
 'the office'/
 'the originals'/
 'the sopranos'/
+'the undoing'/
 'the unit'/
 'the vampire diaries'/
 'the walking dead'/
