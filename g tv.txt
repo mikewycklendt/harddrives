@@ -57,6 +57,8 @@
  leverage/
 'lincoln divided we stand'/
 'line of duty'/
+'lost cities of the amazon'/
+'lost cities with albert lin'/
 "marvel's runaways"/
 'master of none'/
 'mayans m.c'/
@@ -66,6 +68,7 @@
 'my boys'/
 'my name is earl'/
 'mythic quest ravens banquet'/
+'nancy drew'/
  narcos/
 'narcos mexico'/
 "nasa's unexplained files"/
@@ -88,6 +91,7 @@
  riverdale/
  roots/
  s.w.a.t/
+'shadow and bone'/
 'sharp objects'/
  sherlock/
  shooter/
@@ -131,6 +135,7 @@
 'the queens gambit'/
 'the resident'/
 'the rookie'/
+'the serpent'/
 'the shield'/
 'the unxplained'/
 'the wilds'/

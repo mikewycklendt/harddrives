@@ -6,6 +6,7 @@
  atlanta/
  awake/
 'Band of Brothers'/
+ bloodlands/
  bloodline/
 'boston public'/
  britannia/
@@ -37,16 +38,19 @@
 'how i met your mother'/
  humans/
  hunters/
+ intergalactic/
  jericho/
  jett/
  joey/
  killjoys/
 'kung fu'/
  legion/
+'lets be real'/
 'lost in space'/
 'lovecraft country'/
  manifest/
 'mare of easttown'/
+'marvel studios assembled'/
 "marvel's agent carter"/
 "marvel's cloak and dagger"/
 "marvel's inhumans"/
@@ -82,9 +86,11 @@
 'the chicago code'/
 'the first'/
 'the gifted'/
+'the girlfriend experience'/
 'the last narc'/
 'the looming tower'/
 'the morning show'/
+'the mosquito coast'/
 'the pacific'/
 'the people v the klan'/
 'the proof is out there'/
@@ -94,6 +100,7 @@
 'the walking dead world beyond'/
 'true detective'/
 'tvf pitchers'/
+'united shades of america'/
  upload/
 'utopia falls'/
 'van helsing'/

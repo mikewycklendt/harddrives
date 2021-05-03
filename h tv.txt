@@ -35,6 +35,8 @@
  legacies/
 'line of duty'/
 'lois and clark'/
+'lost cities of the amazon'/
+'lost cities with albert lin'/
  louie/
 'lovecraft country'/
  lucifer/
@@ -46,6 +48,7 @@
 'modern love'/
 'money heist'/
 'mr robot'/
+'nancy drew'/
  narcos/
  nashville/
  numb3rs/
@@ -69,6 +72,7 @@
 'saved by the bell'/
 'saved by the bell - the college years'/
  servant/
+'shadow and bone'/
 'sharp objects'/
  sherlock/
 'silicon valley'/
@@ -107,6 +111,7 @@
 'the queens gambit'/
 'the resident'/
 'the rookie'/
+'the serpent'/
 'the shield'/
 'the tesla files'/
 'the unit'/

@@ -15,6 +15,7 @@
  arrow/
  atlanta/
 'avatar the last airbender'/
+'b positive'/
  banshee/
 'battlestar galactica'/
 'berlin station'/
@@ -61,6 +62,7 @@
  house/
 'house of cards'/
 'how i met your mother'/
+'how the universe works'/
  humans/
 'into the badlands'/
 'jack ryan'/
@@ -70,6 +72,7 @@
 'Kyle XY'/
 'las vegas'/
 'last week tonight with john oliver'/
+'lets be real'/
  life/
 'lois and clark'/
  louie/
@@ -117,6 +120,7 @@
 'sons of anarchy'/
 'south park'/
  southland/
+'space force'/
 'star trek discovery'/
 'stargate atlantis'/
 'stargate sg-1'/
@@ -130,17 +134,21 @@
 'the boys'/
 'the curse of oak island'/
 'the expanse'/
+'the girlfriend experience'/
 'the good place'/
 'the handmaids tale'/
 'the killing'/
 'the last kingdom'/
 'the mentalist'/
+'the mosquito coast'/
 'the nevers'/
 'the night manager'/
+'the orville'/
 'the people v the klan'/
 'the unxplained'/
 'the walking dead world beyond'/
  titans/
+'united shades of america'/
 'veronica mars'/
  watchmen/
  westworld/

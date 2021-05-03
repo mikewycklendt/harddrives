@@ -5,6 +5,7 @@
 'beyond oak island'/
 'big little lies'/
 'black lightning'/
+ bloodlands/
  bosch/
 'boy meets world'/
 "childhood's end"/
@@ -36,6 +37,8 @@
 'godfather of harlem'/
  hannibal/
 'hell on wheels'/
+'how the universe works'/
+ intergalactic/
 'Into the West'/
 'its always sunny in philadelphia'/
 'jack ryan'/
@@ -56,6 +59,7 @@
  macgyver/
  manifest/
 'mare of easttown'/
+'marvel studios assembled'/
 "marvel's agent carter"/
 "marvel's cloak and dagger"/
 "marvel's daredevil"/
@@ -85,6 +89,7 @@
 'six feet under'/
 'sneaky pete'/
  southland/
+'space force'/
  spartacus/
 'spartacus gods of the arena'/
 'star trek discovery'/
@@ -110,6 +115,7 @@
 'the morning show'/
 'the o.c'/
 'the office'/
+'the orville'/
 'the proof is out there'/
 'the secret story of the knights templar'/
 'the sopranos'/
