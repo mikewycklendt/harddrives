@@ -1,4 +1,5 @@
 '12 monkeys'/
+'all rise'/
 'american crime story'/
 'americas book of secrets special edition'/
 'avatar the last airbender'/
@@ -11,11 +12,13 @@
 'blue planet 2'/
 'boardwalk empire'/
 'breaking bad'/
+ breeders/
  britannia/
 'children of dune'/
 'city on a hill'/
  condor/
 'cosmos posssible worlds'/
+ coyote/
  debris/
  dexter/
 'dispatches from elsewhere'/
@@ -31,7 +34,9 @@
 'hard knocks'/
  heroes/
  homecoming/
+'into the universe with stephen hawking'/
  invincible/
+'jupiters legacy'/
  legacies/
 'line of duty'/
 'lois and clark'/
@@ -82,6 +87,7 @@
 'star wars forces of destiny'/
 'star wars rebels'/
 'star wars resistance'/
+'star wars the bad batch'/
 'star wars the clone wars'/
  stargirl/
  supergirl/
@@ -131,6 +137,8 @@
  vikings/
  wandavision/
  watchmen/
+'what we do in the shadows'/
+'wonders of the universe'/
 'young justice'/
 'your honor'/
 "you're the worst"/

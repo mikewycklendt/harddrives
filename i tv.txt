@@ -27,8 +27,10 @@
 'doom patrol'/
  empire/
 'everybody hhates chris'/
+'expedition x'/
  fargo/
 'for all mankind'/
+'for real the story of reality tv'/
  frequency/
  frontier/
 'gangs of london'/
@@ -38,6 +40,7 @@
 'how i met your mother'/
  humans/
  hunters/
+'if we built it today'/
  intergalactic/
  jericho/
  jett/
@@ -113,3 +116,4 @@
  wonderland/
 'wynonna earp'/
  yellowstone/
+'z nation'/

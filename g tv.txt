@@ -2,6 +2,7 @@
  9-1-1/
 '9-1-1 lone star'/
 'a discovery of witches'/
+'all rise'/
 'american crime story'/
 'americas book of secrets'/
 'americas book of secrets special edition'/
@@ -19,6 +20,7 @@
 'black mirror'/
 'boy meets world'/
 'breaking bad'/
+ breeders/
 'brooklyn nine-nine'/
 'burn notice'/
  castle/
@@ -44,8 +46,10 @@
  homecoming/
  homeland/
  house/
+'human universe'/
  hunters/
 'into the badlands'/
+'into the universe with stephen hawking'/
 'Into the West'/
  invincible/
  journeyman/
@@ -74,12 +78,14 @@
 "nasa's unexplained files"/
 'nathan for you'/
 'new amsterdam'/
+'no activity'/
 'our cartoon president'/
  outlander/
  ozark/
 'party down'/
  patriot/
  pennyworth/
+'philly d.a'/
  power/
  preacher/
 'project blue book'/
@@ -102,6 +108,7 @@
 'star wars forces of destiny'/
 'star wars rebels'/
 'star wars resistance'/
+'star wars the bad batch'/
 'star wars the clone wars'/
  suits/
 'superman and lois'/
@@ -152,6 +159,8 @@
  veep/
  vikings/
  watchmen/
+'what we do in the shadows'/
+'wonders of the universe'/
  workaholics/
 'young justice'/
 "you're the worst"/

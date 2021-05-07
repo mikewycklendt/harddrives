@@ -147,8 +147,10 @@
 'the people v the klan'/
 'the unxplained'/
 'the walking dead world beyond'/
+'tin man'/
  titans/
 'united shades of america'/
 'veronica mars'/
  watchmen/
  westworld/
+'z nation'/

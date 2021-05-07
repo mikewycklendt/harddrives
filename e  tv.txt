@@ -12,6 +12,7 @@
 'city on a hill'/
  condor/
  corporate/
+ coyote/
 'curb your enthusiasm'/
  damages/
 "DC's legends of tomorrow"/
@@ -24,10 +25,12 @@
  dune/
  episodes/
 'everybody hhates chris'/
+'expedition x'/
  fargo/
  fbi/
 'fbi most wanted'/
  firefly/
+'for real the story of reality tv'/
 'frank of ireland'/
  frequency/
  friends/
@@ -38,12 +41,14 @@
  hannibal/
 'hell on wheels'/
 'how the universe works'/
+'if we built it today'/
  intergalactic/
 'Into the West'/
 'its always sunny in philadelphia'/
 'jack ryan'/
  jett/
  joey/
+'jupiters legacy'/
  justified/
 'killing eve'/
  killjoys/
@@ -72,6 +77,7 @@
  mcmafia/
  mindhunter/
 'new amsterdam'/
+'no activity'/
 'o.j. made in america'/
  patriot/
 'prodigal son'/
