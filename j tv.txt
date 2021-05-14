@@ -132,7 +132,9 @@
  tehran/
 'the 100'/
 'the boys'/
+'the crime of the century'/
 'the curse of oak island'/
+'the daily show with trevor noah'/
 'the expanse'/
 'the girlfriend experience'/
 'the good place'/
@@ -147,7 +149,6 @@
 'the people v the klan'/
 'the unxplained'/
 'the walking dead world beyond'/
-'tin man'/
  titans/
 'united shades of america'/
 'veronica mars'/

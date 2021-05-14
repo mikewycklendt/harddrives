@@ -97,6 +97,7 @@
  riverdale/
  roots/
  s.w.a.t/
+'saturday night live'/
 'shadow and bone'/
 'sharp objects'/
  sherlock/
@@ -104,6 +105,7 @@
 'silicon valley'/
  snowpiercer/
 'south park'/
+'spy city'/
 'star trek picard'/
 'star wars forces of destiny'/
 'star wars rebels'/
@@ -120,7 +122,9 @@
  terriers/
 'The 4400'/
 'the blacklist'/
+'the crime of the century'/
 'the crown'/
+'the dark side of football'/
 'the falcon and the winter soldier'/
 'the family man'/
 'the flash'/
@@ -142,8 +146,11 @@
 'the queens gambit'/
 'the resident'/
 'the rookie'/
+'the secret of skinwalker ranch'/
 'the serpent'/
 'the shield'/
+'the story of late night'/
+'the underground railroad'/
 'the unxplained'/
 'the wilds'/
 'this is us'/

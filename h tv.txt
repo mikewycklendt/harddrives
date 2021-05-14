@@ -74,6 +74,7 @@
  rubicon/
 'rutherford falls'/
  s.w.a.t/
+'saturday night live'/
 'saved by the bell'/
 'saved by the bell - the college years'/
  servant/
@@ -84,6 +85,7 @@
  six/
 'sleepy hollow'/
 'sneaky pete'/
+'spy city'/
 'star wars forces of destiny'/
 'star wars rebels'/
 'star wars resistance'/
@@ -101,6 +103,8 @@
 'the blacklist'/
 'the crown'/
 'the curse of oak island'/
+'the daily show with trevor noah'/
+'the dark side of football'/
 'the expanse'/
 'the falcon and the winter soldier'/
 'the family man'/
@@ -117,9 +121,12 @@
 'the queens gambit'/
 'the resident'/
 'the rookie'/
+'the secret of skinwalker ranch'/
 'the serpent'/
 'the shield'/
+'the story of late night'/
 'the tesla files'/
+'the underground railroad'/
 'the unit'/
 'the vampire diaries'/
 'the walking dead'/

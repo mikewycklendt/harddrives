@@ -23,6 +23,7 @@
 'doom patrol'/
  dracula/
  dune/
+ dynasty/
  episodes/
 'everybody hhates chris'/
 'expedition x'/
@@ -50,6 +51,7 @@
  joey/
 'jupiters legacy'/
  justified/
+ kidding/
 'killing eve'/
  killjoys/
 'kingdom (2014)'/
@@ -79,6 +81,7 @@
 'new amsterdam'/
 'no activity'/
 'o.j. made in america'/
+'patrick melrose'/
  patriot/
 'prodigal son'/
 'project blue book'/
@@ -114,6 +117,7 @@
 'the chicago code'/
 'the first'/
 'the gifted'/
+'the good lord bird'/
 'the last kingdom'/
 'the last narc'/
 'the leftovers'/
