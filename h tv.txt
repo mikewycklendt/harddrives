@@ -16,13 +16,16 @@
  britannia/
 'children of dune'/
 'city on a hill'/
+ clarice/
  condor/
+'conspiracies decoded'/
 'cosmos posssible worlds'/
  coyote/
  debris/
  dexter/
 'dispatches from elsewhere'/
  dollhouse/
+ domina/
  dune/
  episodes/
 'frank of ireland'/

@@ -10,6 +10,7 @@
 'boy meets world'/
 "childhood's end"/
 'city on a hill'/
+ clarice/
  condor/
  corporate/
  coyote/
@@ -20,6 +21,7 @@
 'deep state'/
  defiance/
  devs/
+ domina/
 'doom patrol'/
  dracula/
  dune/
@@ -39,6 +41,7 @@
 'gangs of london'/
 'girl meets world'/
 'godfather of harlem'/
+ hacks/
  hannibal/
 'hell on wheels'/
 'how the universe works'/
@@ -74,6 +77,7 @@
 "marvel's iron fist"/
 "marvel's jessica jones"/
 "marvel's luke cage"/
+"marvel's m.o.d.o.k"/
 "marvel's the defenders"/
 "marvel's the punisher"/
  mcmafia/
@@ -97,6 +101,7 @@
  see/
 'six feet under'/
 'sneaky pete'/
+ solos/
  southland/
 'space force'/
  spartacus/
