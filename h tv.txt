@@ -4,7 +4,9 @@
 'americas book of secrets special edition'/
 'avatar the last airbender'/
 'avatar the legend of korra'/
+'avenue 5'/
  awake/
+ away/
  billions/
 'bionic woman'/
 'black mirror'/
@@ -56,7 +58,9 @@
 'modern love'/
 'money heist'/
 'mr robot'/
+'mr. inbetween'/
 'nancy drew'/
+'narco wars'/
  narcos/
  nashville/
  numb3rs/
@@ -80,6 +84,7 @@
 'saturday night live'/
 'saved by the bell'/
 'saved by the bell - the college years'/
+"schitt's creek"/
  servant/
 'shadow and bone'/
 'sharp objects'/
@@ -88,6 +93,7 @@
  six/
 'sleepy hollow'/
 'sneaky pete'/
+ snowfall/
 'spy city'/
 'star wars forces of destiny'/
 'star wars rebels'/
@@ -120,7 +126,6 @@
 'the new pope'/
 'the newsroom'/
 'the night manager'/
-'the outsider'/
 'the queens gambit'/
 'the resident'/
 'the rookie'/
@@ -139,7 +144,9 @@
 'tiger king'/
  touch/
  treme/
+'tribes of europa'/
 'true detective'/
+ trying/
 'twin peaks'/
  upload/
  utopia/

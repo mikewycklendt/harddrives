@@ -71,6 +71,7 @@
 'mythic quest ravens banquet'/
 'nathan for you'/
 'o.j. made in america'/
+ panic/
 'patrick melrose'/
  pennyworth/
 'perpetual grace ltd'/
@@ -85,6 +86,7 @@
  sanctuary/
 'seal team'/
  see/
+'sex and the city'/
  shameless/
  solos/
  southland/

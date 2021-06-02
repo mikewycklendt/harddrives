@@ -110,6 +110,7 @@
 'seal team'/
  seinfeld/
  servant/
+'sex and the city'/
  shameless/
  shooter/
  six/
@@ -125,6 +126,7 @@
 'stargate atlantis'/
 'stargate sg-1'/
 'stranger things'/
+'strangest things'/
  suits/
 'superman and lois'/
  supernatural/
@@ -142,11 +144,13 @@
 'the killing'/
 'the last kingdom'/
 'the mentalist'/
+'the mighty ducks game changers'/
 'the mosquito coast'/
 'the nevers'/
 'the night manager'/
 'the orville'/
 'the people v the klan'/
+'the third day'/
 'the unxplained'/
 'the walking dead world beyond'/
  titans/

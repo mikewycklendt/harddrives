@@ -5,6 +5,7 @@
 'beyond oak island'/
 'big little lies'/
 'black lightning'/
+'black monday'/
  bloodlands/
  bosch/
 'boy meets world'/
@@ -39,6 +40,7 @@
  friends/
  frontier/
 'gangs of london'/
+ generation/
 'girl meets world'/
 'godfather of harlem'/
  hacks/
@@ -46,6 +48,7 @@
 'hell on wheels'/
 'how the universe works'/
 'if we built it today'/
+ industry/
  intergalactic/
 'Into the West'/
 'its always sunny in philadelphia'/
@@ -82,6 +85,7 @@
 "marvel's the punisher"/
  mcmafia/
  mindhunter/
+'mr. inbetween'/
 'new amsterdam'/
 'no activity'/
 'o.j. made in america'/
@@ -101,6 +105,7 @@
  see/
 'six feet under'/
 'sneaky pete'/
+ snowfall/
  solos/
  southland/
 'space force'/
@@ -121,16 +126,19 @@
 'the boys'/
 'the chicago code'/
 'the first'/
+'the flight attendant'/
 'the gifted'/
 'the good lord bird'/
 'the last kingdom'/
 'the last narc'/
 'the leftovers'/
 'the looming tower'/
+'the mighty ducks game changers'/
 'the morning show'/
 'the o.c'/
 'the office'/
 'the orville'/
+'the outsider'/
 'the proof is out there'/
 'the secret story of the knights templar'/
 'the sopranos'/
@@ -146,6 +154,7 @@
 'this is us'/
  titans/
 'true blood'/
+ trying/
 'tvf pitchers'/
 'under the dome'/
 'unidentified inside americas ufo investigations'/

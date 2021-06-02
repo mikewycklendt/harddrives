@@ -10,6 +10,8 @@
 'ancient civilizations'/
 'ancient impossible'/
 'avatar the legend of korra'/
+'avenue 5'/
+ away/
 'Band of Brothers'/
  banshee/
  batwoman/
@@ -18,6 +20,7 @@
 'big little lies'/
 'bionic woman (2007)'/
 'black mirror'/
+'black monday'/
 'boy meets world'/
 'breaking bad'/
  breeders/
@@ -41,6 +44,7 @@
  er/
 'fear the walking dead'/
 'for all mankind'/
+ generation/
 'girl meets world'/
 'greys anatomy'/
 'hangar 1 - the ufo files'/
@@ -49,6 +53,7 @@
  house/
 'human universe'/
  hunters/
+ industry/
 'into the badlands'/
 'into the universe with stephen hawking'/
 'Into the West'/
@@ -74,6 +79,7 @@
 'my name is earl'/
 'mythic quest ravens banquet'/
 'nancy drew'/
+'narco wars'/
  narcos/
 'narcos mexico'/
 "nasa's unexplained files"/
@@ -83,6 +89,7 @@
 'our cartoon president'/
  outlander/
  ozark/
+ panic/
 'party down'/
  patriot/
  pennyworth/
@@ -99,6 +106,7 @@
  roots/
  s.w.a.t/
 'saturday night live'/
+"schitt's creek"/
 'shadow and bone'/
 'sharp objects'/
  sherlock/
@@ -113,6 +121,7 @@
 'star wars resistance'/
 'star wars the bad batch'/
 'star wars the clone wars'/
+'strangest things'/
  suits/
 'superman and lois'/
  superstore/
@@ -129,6 +138,7 @@
 'the falcon and the winter soldier'/
 'the family man'/
 'the flash'/
+'the flight attendant'/
 'the following'/
 'the fresh prince of bel air'/
 'the good place'/
@@ -151,6 +161,7 @@
 'the serpent'/
 'the shield'/
 'the story of late night'/
+'the third day'/
 'the underground railroad'/
 'the unxplained'/
 'the wilds'/
@@ -158,6 +169,7 @@
 'tiger king'/
  touch/
  treme/
+'tribes of europa'/
 'twin peaks'/
 'UFOs - The Lost Evidence'/
 'unidentified inside americas ufo investigations'/
