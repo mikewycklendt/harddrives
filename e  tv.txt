@@ -66,6 +66,7 @@
  legion/
  life/
 'lincoln divided we stand'/
+ loki/
  lost/
 'lost in space'/
 'lost relics of the knights templar'/
@@ -73,6 +74,7 @@
  manifest/
 'mare of easttown'/
 'marvel studios assembled'/
+'marvel studios legends'/
 "marvel's agent carter"/
 "marvel's cloak and dagger"/
 "marvel's daredevil"/

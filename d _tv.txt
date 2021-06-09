@@ -29,6 +29,7 @@
  fringe/
 'game of thrones'/
  gotham/
+ halston/
  haven/
 'hawaii five-0'/
 'hell on wheels'/
