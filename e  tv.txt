@@ -93,6 +93,7 @@
 'o.j. made in america'/
 'patrick melrose'/
  patriot/
+ physical/
 'prodigal son'/
 'project blue book'/
 'raising dion'/
@@ -109,6 +110,7 @@
 'sneaky pete'/
  snowfall/
  solos/
+ somos/
  southland/
 'space force'/
  spartacus/

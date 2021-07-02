@@ -7,6 +7,7 @@
  awake/
 'b positive'/
 'Band of Brothers'/
+ blindspotting/
  bloodlands/
  bloodline/
 'boston public'/
@@ -48,6 +49,7 @@
  jericho/
  jett/
  joey/
+'kevin can fuck himself'/
  kidding/
  killjoys/
 'kung fu'/
@@ -78,6 +80,7 @@
  pennyworth/
 'perpetual grace ltd'/
 'philly d.a'/
+ physical/
 'power book II ghost'/
 'prodigal son'/
 'raising dion'/
@@ -91,6 +94,7 @@
 'sex and the city'/
  shameless/
  solos/
+ somos/
  southland/
  spartacus/
 'spartacus gods of the arena'/
@@ -107,6 +111,7 @@
 'the looming tower'/
 'the morning show'/
 'the mosquito coast'/
+'the mysterious benedict society'/
 'the pacific'/
 'the people v the klan'/
 'the proof is out there'/

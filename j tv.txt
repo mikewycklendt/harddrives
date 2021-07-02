@@ -24,6 +24,7 @@
  beyond/
  billions/
 'black lightning'/
+ blindspotting/
  bloodline/
 'blue planet'/
 'blue planet 2'/

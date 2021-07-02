@@ -11,6 +11,7 @@
 'boston public'/
 'buffy the vampire slayer'/
  californication/
+ carnivale/
  castle/
  chuck/
  community/
