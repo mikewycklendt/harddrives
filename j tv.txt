@@ -76,6 +76,7 @@
 'las vegas'/
 'last week tonight with john oliver'/
 'lets be real'/
+'leverage redemption'/
  life/
 "lisey's story"/
 'lois and clark'/
@@ -113,6 +114,7 @@
 'saved by the bell (2020)'/
  scrubs/
 'seal team'/
+'searching for secrets'/
  seinfeld/
  servant/
 'sex and the city'/

@@ -41,6 +41,7 @@
 'hard knocks'/
  heroes/
  homecoming/
+'how to become a tyrant'/
 'into the universe with stephen hawking'/
  invincible/
 'jupiters legacy'/
@@ -88,6 +89,7 @@
 'saved by the bell'/
 'saved by the bell - the college years'/
 "schitt's creek"/
+'searching for secrets'/
  servant/
 'shadow and bone'/
 'sharp objects'/
