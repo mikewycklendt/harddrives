@@ -55,6 +55,7 @@
  fringe/
 'full house'/
 'game of thrones'/
+'gossip girl (2021)'/
  gotham/
 'halt and catch fire'/
  hanna/

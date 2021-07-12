@@ -145,6 +145,7 @@
 'the vampire diaries'/
 'the walking dead'/
 'the west wing'/
+'the white lotus'/
 'the witcher'/
 'the young pope'/
 'tiger king'/
