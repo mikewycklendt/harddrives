@@ -1,4 +1,4 @@
-'12 monkeys'/
+\'12 monkeys'/
 'all rise'/
 'american crime story'/
 'americas book of secrets special edition'/
@@ -39,6 +39,7 @@
 'halt and catch fire'/
 'hangar 1 - the ufo files'/
 'hard knocks'/
+'heist (2021)'/
  heroes/
  homecoming/
 'how to become a tyrant'/
@@ -132,6 +133,7 @@
 'the new pope'/
 'the newsroom'/
 'the night manager'/
+'the north water'/
 'the queens gambit'/
 'the resident'/
 'the rookie'/
