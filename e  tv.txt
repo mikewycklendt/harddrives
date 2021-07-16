@@ -101,6 +101,7 @@
 'resident alien'/
  rome/
  roots/
+'roswell the final verdict'/
 'royal pains'/
  sanctuary/
 'saved by the bell'/
@@ -144,6 +145,7 @@
 'the o.c'/
 'the office'/
 'the orville'/
+'the outpost'/
 'the outsider'/
 'the proof is out there'/
 'the secret story of the knights templar'/

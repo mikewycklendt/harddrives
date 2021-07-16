@@ -1,4 +1,4 @@
-\'12 monkeys'/
+'12 monkeys'/
 'all rise'/
 'american crime story'/
 'americas book of secrets special edition'/
@@ -83,6 +83,7 @@
 'q into the storm'/
  quantico/
 'rescue me'/
+'roswell the final verdict'/
  rubicon/
 'rutherford falls'/
  s.w.a.t/
@@ -134,6 +135,7 @@
 'the newsroom'/
 'the night manager'/
 'the north water'/
+'the outpost'/
 'the queens gambit'/
 'the resident'/
 'the rookie'/
