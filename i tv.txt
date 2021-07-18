@@ -41,6 +41,7 @@
  hacks/
  hanna/
  hannibal/
+'heist (2021)'/
 'how i met your mother'/
  humans/
  hunters/
@@ -83,6 +84,7 @@
 'philly d.a'/
  physical/
 'power book II ghost'/
+'power book III raising kanan'/
 'prodigal son'/
 'raising dion'/
 'resident alien'/

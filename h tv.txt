@@ -76,6 +76,7 @@
 'planet earth 2'/
  power/
 'power book II ghost'/
+'power book III raising kanan'/
 'prison break'/
 'project blue book'/
  psych/
