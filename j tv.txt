@@ -9,6 +9,7 @@
  alias/
 'all american'/
 'american gods'/
+'american rust'/
 'ancient aliens'/
 'ancient civilizations'/
 'animal kingdom'/
@@ -37,6 +38,7 @@
  caprica/
 'criminal minds'/
 "da vinci's demons"/
+"dan brown's the lost symbol"/
 "dawson's creek"/
 'day break'/
 "DC's legends of tomorrow"/
@@ -47,10 +49,12 @@
 'dispatches from elsewhere'/
  empire/
  fbi/
+'fbi international'/
 'fbi most wanted'/
 'fear the walking dead'/
  firefly/
  flack/
+ foundation/
 'frank of ireland'/
 'friday night lights'/
  fringe/
@@ -62,7 +66,9 @@
  hanna/
 'hard knocks'/
 'hawaii five-0'/
+ heels/
  heroes/
+'home before dark'/
  homeland/
  house/
 'house of cards'/
@@ -72,6 +78,7 @@
 'into the badlands'/
 'jack ryan'/
 'killing eve'/
+ kin/
 'kingdom (2014)'/
  krypton/
 'Kyle XY'/
@@ -93,10 +100,12 @@
 'mayans m.c'/
 'modern family'/
 'mr robot'/
+'mr. corman'/
 'my name is earl'/
 'narcos mexico'/
 "nasa's unexplained files"/
 'new girl'/
+'nine perfect strangers'/
 'nip tuck'/
 'once upon a time'/
  outlander/
@@ -114,6 +123,7 @@
 'royal pains'/
 'rutherford falls'/
 'saved by the bell (2020)'/
+ schmigadoon/
  scrubs/
 'seal team'/
 'searching for secrets'/
@@ -161,10 +171,15 @@
 'the people v the klan'/
 'the third day'/
 'the unxplained'/
+'the walking dead origins'/
 'the walking dead world beyond'/
  titans/
+'ufo (2021)'/
 'united shades of america'/
 'veronica mars'/
  watchmen/
  westworld/
+'what if (2021)'/
+'wu tang an american saga'/
+'y the last man'/
 'z nation'/

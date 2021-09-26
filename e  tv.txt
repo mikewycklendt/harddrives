@@ -29,9 +29,11 @@
  dynasty/
  episodes/
 'everybody hhates chris'/
+'expedition unknown'/
 'expedition x'/
  fargo/
  fbi/
+'fbi international'/
 'fbi most wanted'/
  firefly/
 'for real the story of reality tv'/
@@ -90,6 +92,7 @@
  mindhunter/
 'mr. inbetween'/
 'new amsterdam'/
+'New folder'/
 'no activity'/
 'o.j. made in america'/
 'patrick melrose'/

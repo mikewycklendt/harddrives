@@ -2,3 +2,10 @@ eztv.re
 eztv.it
 eztv.ch
 eztv.ag
+
+
+https://www.ettv.be/ - proxy #1
+
+https://www.ettv.to/ - main torrent site
+
+https://ettv.online/ - proxy #2

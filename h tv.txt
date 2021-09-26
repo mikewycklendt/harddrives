@@ -1,6 +1,7 @@
 '12 monkeys'/
 'all rise'/
 'american crime story'/
+'american rust'/
 'americas book of secrets special edition'/
 'another life'/
 'avatar the last airbender'/
@@ -13,6 +14,7 @@
 'black mirror'/
 'blue planet'/
 'blue planet 2'/
+ bmf/
 'boardwalk empire'/
 'breaking bad'/
  breeders/
@@ -24,6 +26,7 @@
 'conspiracies decoded'/
 'cosmos posssible worlds'/
  coyote/
+"dan brown's the lost symbol"/
  debris/
  dexter/
 'dispatches from elsewhere'/
@@ -31,7 +34,9 @@
  domina/
  dune/
  episodes/
+ fiasco/
  flack/
+ foundation/
 'frank of ireland'/
 'get shorty'/
 'godfather of harlem'/
@@ -39,14 +44,17 @@
 'halt and catch fire'/
 'hangar 1 - the ufo files'/
 'hard knocks'/
+ heels/
 'heist (2021)'/
  heroes/
+'history of the sitcom'/
  homecoming/
 'how to become a tyrant'/
 'into the universe with stephen hawking'/
  invincible/
 'jupiters legacy'/
 'kevin can fuck himself'/
+ kin/
  legacies/
 'line of duty'/
 'lois and clark'/
@@ -62,6 +70,7 @@
  merlin/
 'modern love'/
 'money heist'/
+'motherland fort salem'/
 'mr robot'/
 'mr. inbetween'/
 'nancy drew'/
@@ -149,6 +158,7 @@
 'the unit'/
 'the vampire diaries'/
 'the walking dead'/
+'the walking dead origins'/
 'the west wing'/
 'the white lotus'/
 'the witcher'/
@@ -168,6 +178,8 @@
  watchmen/
 'what we do in the shadows'/
 'wonders of the universe'/
+'wu tang an american saga'/
+'y the last man'/
 'young justice'/
 'your honor'/
 "you're the worst"/
