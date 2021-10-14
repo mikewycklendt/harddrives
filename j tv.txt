@@ -1,12 +1,8 @@
- 11.22.63/
 '12 monkeys'/
 '1600 penn'/
- 24/
-'30 rock'/
  9-1-1/
 '9-1-1 lone star'/
 'a discovery of witches'/
- alias/
 'all american'/
 'american gods'/
 'american rust'/
@@ -15,12 +11,9 @@
 'animal kingdom'/
 'another life'/
  archer/
- arrow/
  atlanta/
-'avatar the last airbender'/
 'b positive'/
  banshee/
-'battlestar galactica'/
 'berlin station'/
 'better call saul'/
  beyond/
@@ -33,10 +26,8 @@
 'boardwalk empire'/
  bosch/
 'brooklyn nine-nine'/
-'buffy the vampire slayer'/
 'burn notice'/
  caprica/
-'criminal minds'/
 "da vinci's demons"/
 "dan brown's the lost symbol"/
 "dawson's creek"/
@@ -44,7 +35,6 @@
 "DC's legends of tomorrow"/
 'deep space'/
 'designated survivor'/
-'desperate housewives'/
  dexter/
 'dispatches from elsewhere'/
  empire/

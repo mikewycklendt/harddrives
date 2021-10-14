@@ -1,4 +1,3 @@
- alphas/
 'americas book of secrets'/
  batwoman/
 'berlin station'/
@@ -7,25 +6,15 @@
 'black lightning'/
 'black monday'/
  bloodlands/
- bosch/
-'boy meets world'/
-"childhood's end"/
 'city on a hill'/
  clarice/
  condor/
  corporate/
  coyote/
 'curb your enthusiasm'/
- damages/
 "DC's legends of tomorrow"/
- deadwood/
-'deep state'/
- defiance/
- devs/
  domina/
 'doom patrol'/
- dracula/
- dune/
  dynasty/
  episodes/
 'everybody hhates chris'/
@@ -35,15 +24,10 @@
  fbi/
 'fbi international'/
 'fbi most wanted'/
- firefly/
-'for real the story of reality tv'/
 'frank of ireland'/
  frequency/
- friends/
- frontier/
 'gangs of london'/
  generation/
-'girl meets world'/
 'godfather of harlem'/
 'gossip girl (2021)'/
  hacks/
@@ -53,26 +37,17 @@
 'if we built it today'/
  industry/
  intergalactic/
-'Into the West'/
-'its always sunny in philadelphia'/
 'jack ryan'/
- jett/
  joey/
 'jupiters legacy'/
- justified/
  kidding/
 'killing eve'/
  killjoys/
-'kingdom (2014)'/
-'las vegas'/
 'last week tonight with john oliver'/
  legion/
- life/
 'lincoln divided we stand'/
  loki/
- lost/
 'lost in space'/
-'lost relics of the knights templar'/
  macgyver/
  manifest/
 'mare of easttown'/
@@ -80,26 +55,17 @@
 'marvel studios legends'/
 "marvel's agent carter"/
 "marvel's cloak and dagger"/
-"marvel's daredevil"/
-"marvel's inhumans"/
-"marvel's iron fist"/
-"marvel's jessica jones"/
-"marvel's luke cage"/
 "marvel's m.o.d.o.k"/
-"marvel's the defenders"/
-"marvel's the punisher"/
  mcmafia/
  mindhunter/
 'mr. inbetween'/
 'new amsterdam'/
 'New folder'/
 'no activity'/
-'o.j. made in america'/
 'patrick melrose'/
  patriot/
  physical/
 'prodigal son'/
-'project blue book'/
 'raising dion'/
 'resident alien'/
  rome/

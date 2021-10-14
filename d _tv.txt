@@ -1,7 +1,6 @@
  24/
  alias/
  angel/
- archer/
 'arrersted development'/
  arrow/
  atlantis/
@@ -83,7 +82,6 @@
 'the undoing'/
 'the unit'/
 'the vampire diaries'/
-'the walking dead'/
 'the wire'/
 'through the wormhole'/
 'true blood'/

@@ -1,4 +1,3 @@
-'12 monkeys'/
 'all rise'/
 'american crime story'/
 'american rust'/
@@ -12,14 +11,10 @@
  billions/
 'bionic woman'/
 'black mirror'/
-'blue planet'/
-'blue planet 2'/
  bmf/
-'boardwalk empire'/
 'breaking bad'/
  breeders/
  britannia/
-'children of dune'/
 'city on a hill'/
  clarice/
  condor/
@@ -28,12 +23,9 @@
  coyote/
 "dan brown's the lost symbol"/
  debris/
- dexter/
-'dispatches from elsewhere'/
- dollhouse/
  domina/
+ dopesick/
  dune/
- episodes/
  fiasco/
  flack/
  foundation/
@@ -42,11 +34,9 @@
 'godfather of harlem'/
 'greys anatomy'/
 'halt and catch fire'/
-'hangar 1 - the ufo files'/
 'hard knocks'/
  heels/
 'heist (2021)'/
- heroes/
 'history of the sitcom'/
  homecoming/
 'how to become a tyrant'/
@@ -55,38 +45,26 @@
 'jupiters legacy'/
 'kevin can fuck himself'/
  kin/
+'la brea'/
  legacies/
 'line of duty'/
-'lois and clark'/
 'lost cities of the amazon'/
 'lost cities with albert lin'/
- louie/
 'lovecraft country'/
  lucifer/
-'madam secretary'/
-"marvel's agents of S.H.I.E.L.D"/
-"marvel's runaways"/
 'master of none'/
- merlin/
 'modern love'/
 'money heist'/
 'motherland fort salem'/
-'mr robot'/
 'mr. inbetween'/
 'nancy drew'/
 'narco wars'/
- narcos/
- nashville/
- numb3rs/
+'ordinary joe'/
 'our cartoon president'/
  ozark/
 'party down'/
-'planet earth'/
-'planet earth 2'/
- power/
 'power book II ghost'/
 'power book III raising kanan'/
-'prison break'/
 'project blue book'/
  psych/
 'pushing daisies'/
@@ -126,6 +104,7 @@
  terriers/
 'The 4400'/
 'the americans'/
+'the big leap'/
 'the blacklist'/
 'the crown'/
 'the curse of oak island'/

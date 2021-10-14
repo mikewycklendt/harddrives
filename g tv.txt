@@ -10,40 +10,27 @@
 'ancient civilizations'/
 'ancient impossible'/
 'animal kingdom'/
-'avatar the legend of korra'/
 'avenue 5'/
  away/
-'Band of Brothers'/
- banshee/
  batwoman/
- beyond/
 'beyond oak island'/
 'big little lies'/
-'bionic woman (2007)'/
 'black mirror'/
 'black monday'/
- boss/
 'boy meets world'/
-'breaking bad'/
  breeders/
-'brooklyn nine-nine'/
-'burn notice'/
- castle/
  chernobyl/
 'conspiracies decoded'/
 'cosmos a spacetime odessey'/
 'cosmos posssible worlds'/
 'covert affairs'/
 'criminal minds'/
-'dark matter'/
 'deep space'/
 'deep state'/
 'defending jacob'/
  devs/
  dollhouse/
  dominion/
- entourage/
- er/
 'expedition unknown'/
 'fear the walking dead'/
 'for all mankind'/
@@ -53,24 +40,17 @@
 'hangar 1 - the ufo files'/
 'home before dark'/
  homecoming/
- homeland/
- house/
 'how to become a tyrant'/
 'human universe'/
  hunters/
  industry/
-'into the badlands'/
 'into the universe with stephen hawking'/
 'Into the West'/
  invincible/
  journeyman/
 'killer inside the mind of aaron hernandez'/
- krypton/
 'kung fu'/
-'Kyle XY'/
  legacies/
- leverage/
-'lincoln divided we stand'/
 'line of duty'/
 'lost cities of the amazon'/
 'lost cities with albert lin'/
@@ -94,6 +74,7 @@
 'new amsterdam'/
 'nine perfect strangers'/
 'no activity'/
+'only murders in the building'/
 'our cartoon president'/
  outlander/
  ozark/
@@ -140,6 +121,7 @@
 'tell me your secrets'/
  terriers/
 'The 4400'/
+'the big leap'/
 'the blacklist'/
 'the crime of the century'/
 'the crown'/

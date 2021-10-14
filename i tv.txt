@@ -1,63 +1,41 @@
-'1600 penn'/
 'all american'/
 'american gods'/
- angel/
-'arrersted development'/
- atlanta/
- awake/
 'b positive'/
 'Band of Brothers'/
  blindspotting/
  bloodlands/
- bloodline/
  bmf/
-'boston public'/
  britannia/
- caprica/
- chernobyl/
 "childhood's end"/
 'children of dune'/
- chuck/
- community/
  corporate/
-'covert affairs'/
 'dark matter'/
-'day break'/
  deadwood/
  debris/
 'defending jacob'/
-'designated survivor'/
 'doom patrol'/
+ dopesick/
  dynasty/
- empire/
-'everybody hhates chris'/
 'expedition x'/
  fargo/
  fiasco/
 'for all mankind'/
 'for real the story of reality tv'/
- frequency/
  frontier/
 'gangs of london'/
 'get shorty'/
  hacks/
  hanna/
- hannibal/
 'heist (2021)'/
 'history of the sitcom'/
-'how i met your mother'/
- humans/
  hunters/
 'if we built it today'/
  intergalactic/
- jericho/
  jett/
- joey/
 'kevin can fuck himself'/
  kidding/
- killjoys/
 'kung fu'/
- legion/
+'la brea'/
 'lets be real'/
 'leverage redemption'/
 "lisey's story"/
@@ -67,21 +45,19 @@
  manifest/
 'mare of easttown'/
 'marvel studios assembled'/
-"marvel's agent carter"/
-"marvel's cloak and dagger"/
 "marvel's inhumans"/
 "marvel's jessica jones"/
 "marvel's m.o.d.o.k"/
 "marvel's runaways"/
 "marvel's the defenders"/
- mcmafia/
  mindhunter/
 'my boys'/
 'mythic quest ravens banquet'/
 'nathan for you'/
 'o.j. made in america'/
+'only murders in the building'/
+'ordinary joe'/
  panic/
-'patrick melrose'/
  pennyworth/
 'perpetual grace ltd'/
 'philly d.a'/
@@ -91,18 +67,10 @@
 'prodigal son'/
 'raising dion'/
 'resident alien'/
- revolution/
- rome/
- rubicon/
- sanctuary/
 'seal team'/
  see/
-'sex and the city'/
- shameless/
  solos/
  somos/
- southland/
- spartacus/
 'spartacus gods of the arena'/
 'star trek picard'/
  succession/
