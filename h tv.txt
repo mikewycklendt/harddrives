@@ -41,11 +41,12 @@
  homecoming/
 'how to become a tyrant'/
 'into the universe with stephen hawking'/
+'invasion (2021)'/
  invincible/
 'jupiters legacy'/
 'kevin can fuck himself'/
  kin/
-'la brea'/
+'la brea (2021)'/
  legacies/
 'line of duty'/
 'lost cities of the amazon'/
@@ -125,6 +126,7 @@
 'the night manager'/
 'the north water'/
 'the outpost'/
+'the problem with jon stewart'/
 'the queens gambit'/
 'the resident'/
 'the rookie'/

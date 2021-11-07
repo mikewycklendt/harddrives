@@ -1,4 +1,5 @@
 '30 rock'/
+'4400 (2021)'/
  9-1-1/
 '9-1-1 lone star'/
 'a discovery of witches'/
@@ -10,6 +11,7 @@
 'ancient civilizations'/
 'ancient impossible'/
 'animal kingdom'/
+ arcane/
 'avenue 5'/
  away/
  batwoman/
@@ -46,6 +48,7 @@
  industry/
 'into the universe with stephen hawking'/
 'Into the West'/
+'invasion (2021)'/
  invincible/
  journeyman/
 'killer inside the mind of aaron hernandez'/
@@ -134,6 +137,7 @@
 'the fresh prince of bel air'/
 'the good place'/
 'the handmaids tale'/
+'the irregulars'/
 'the killing'/
 'the league'/
 'the leftovers'/
@@ -142,6 +146,7 @@
 'the new pope'/
 'the newsroom'/
 'the originals'/
+'the outlaws'/
 'the outsider'/
 'the pacific'/
 'the pyramid code'/

@@ -1,4 +1,5 @@
 'americas book of secrets'/
+ arcane/
  batwoman/
 'berlin station'/
 'beyond oak island'/
