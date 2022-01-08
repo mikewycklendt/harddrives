@@ -1,15 +1,18 @@
+ 1883/
 '30 rock'/
 '4400 (2021)'/
  9-1-1/
 '9-1-1 lone star'/
 'a discovery of witches'/
 'all rise'/
+'american auto'/
 'american crime story'/
 'americas book of secrets'/
 'americas book of secrets special edition'/
 'ancient aliens'/
 'ancient civilizations'/
 'ancient impossible'/
+'and just like that'/
 'animal kingdom'/
  arcane/
 'avenue 5'/
@@ -19,6 +22,7 @@
 'big little lies'/
 'black mirror'/
 'black monday'/
+'blade runner black lotus'/
 'boy meets world'/
  breeders/
  chernobyl/
@@ -26,11 +30,13 @@
 'cosmos a spacetime odessey'/
 'cosmos posssible worlds'/
 'covert affairs'/
+'cowboy bebop (2021)'/
 'criminal minds'/
 'deep space'/
 'deep state'/
 'defending jacob'/
  devs/
+'dexter new blood'/
  dollhouse/
  dominion/
 'expedition unknown'/
@@ -40,6 +46,7 @@
 'girl meets world'/
 'greys anatomy'/
 'hangar 1 - the ufo files'/
+'hawkeye (2021)'/
 'home before dark'/
  homecoming/
 'how to become a tyrant'/
@@ -53,6 +60,7 @@
  journeyman/
 'killer inside the mind of aaron hernandez'/
 'kung fu'/
+ landscapers/
  legacies/
 'line of duty'/
 'lost cities of the amazon'/
@@ -60,6 +68,7 @@
 "marvel's runaways"/
 'master of none'/
 'mayans m.c'/
+'mayor of kingstown'/
  merlin/
 'modern love'/
 'money heist'/
@@ -126,6 +135,8 @@
 'The 4400'/
 'the big leap'/
 'the blacklist'/
+'the book of boba fett'/
+'the cleaning lady'/
 'the crime of the century'/
 'the crown'/
 'the dark side of football'/
@@ -156,14 +167,17 @@
 'the secret of skinwalker ranch'/
 'the serpent'/
 'the shield'/
+'the shrink next door'/
 'the story of late night'/
 'the third day'/
 'the underground railroad'/
 'the unxplained'/
+'the wheel of time'/
 'the white lotus'/
 'the wilds'/
 'this is us'/
 'tiger king'/
+'tiger king the doc antle story'/
  touch/
  treme/
 'tribes of europa'/
@@ -181,6 +195,7 @@
 'what we do in the shadows'/
 'wonders of the universe'/
  workaholics/
+ yellowjackets/
 'young justice'/
 "you're the worst"/
  zerozerozero/

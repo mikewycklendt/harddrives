@@ -1,4 +1,7 @@
+\ 1883/
+'american auto'/
 'americas book of secrets'/
+'and just like that'/
  arcane/
  batwoman/
 'berlin station'/
@@ -6,14 +9,18 @@
 'big little lies'/
 'black lightning'/
 'black monday'/
+'blade runner black lotus'/
  bloodlands/
 'city on a hill'/
  clarice/
  condor/
  corporate/
+'cowboy bebop (2021)'/
  coyote/
 'curb your enthusiasm'/
 "DC's legends of tomorrow"/
+'dexter new blood'/
+ diana/
  domina/
 'doom patrol'/
  dynasty/
@@ -33,6 +40,7 @@
 'gossip girl (2021)'/
  hacks/
  hannibal/
+'hawkeye (2021)'/
 'hell on wheels'/
 'how the universe works'/
 'if we built it today'/
@@ -44,6 +52,7 @@
  kidding/
 'killing eve'/
  killjoys/
+ landscapers/
 'last week tonight with john oliver'/
  legion/
 'lincoln divided we stand'/
@@ -57,6 +66,7 @@
 "marvel's agent carter"/
 "marvel's cloak and dagger"/
 "marvel's m.o.d.o.k"/
+'mayor of kingstown'/
  mcmafia/
  mindhunter/
 'mr. inbetween'/
@@ -99,6 +109,7 @@
 'tell me your secrets'/
 'terminator - the sarah connor chronicles'/
 'the 100'/
+'the book of boba fett'/
 'the boys'/
 'the chicago code'/
 'the first'/
@@ -119,17 +130,20 @@
 'the outsider'/
 'the proof is out there'/
 'the secret story of the knights templar'/
+'the shrink next door'/
 'the sopranos'/
 'the stand (2020)'/
 'the story of god with morgan freeman'/
 'the tesla files'/
 'the umbrella academy'/
+'the wheel of time'/
 'the wilds'/
 'the wire'/
 'the witcher'/
 'the x-files'/
 'the young pope'/
 'this is us'/
+'tiger king the doc antle story'/
  titans/
 'true blood'/
  trying/
@@ -146,9 +160,11 @@
 'war of the worlds'/
  weeds/
  westworld/
+'wheel of time origins'/
 'when they see us'/
  wonderland/
 'wynonna earp'/
+ yellowjackets/
  yellowstone/
 'your honor'/
  zerozerozero/

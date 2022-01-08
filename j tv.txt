@@ -104,6 +104,7 @@
 'person of interest'/
 'planet earth'/
 'planet earth 2'/
+'power on the story of xbox'/
  preacher/
 'prison break'/
 'pushing daisies'/
@@ -142,7 +143,9 @@
  superstore/
  tehran/
 'the 100'/
+'the beatles get back'/
 'the boys'/
+'the cleaning lady'/
 'the crime of the century'/
 'the curse of oak island'/
 'the daily show with trevor noah'/
