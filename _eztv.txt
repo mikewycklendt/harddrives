@@ -9,3 +9,7 @@ https://www.ettv.be/ - proxy #1
 https://www.ettv.to/ - main torrent site
 
 https://ettv.online/ - proxy #2
+
+https://1337x.to/
+
+https://1337x.gd/

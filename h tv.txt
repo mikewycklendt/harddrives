@@ -66,6 +66,7 @@
 'party down'/
 'power book II ghost'/
 'power book III raising kanan'/
+'power book IV force'/
 'project blue book'/
  psych/
 'pushing daisies'/
@@ -156,6 +157,7 @@
  utopia/
  veep/
  vikings/
+'vikings valhalla'/
  wandavision/
  watchmen/
 'what we do in the shadows'/

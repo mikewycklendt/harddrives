@@ -65,6 +65,7 @@
  physical/
 'power book II ghost'/
 'power book III raising kanan'/
+'power book IV force'/
 'power on the story of xbox'/
 'prodigal son'/
 'raising dion'/

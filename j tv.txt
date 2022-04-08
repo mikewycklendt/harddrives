@@ -1,4 +1,4 @@
-'12 monkeys'/
+'12 monkeys'/
 '1600 penn'/
  9-1-1/
 '9-1-1 lone star'/
@@ -14,6 +14,7 @@
  atlanta/
 'b positive'/
  banshee/
+ bel-air/
 'berlin station'/
 'better call saul'/
  beyond/
@@ -50,8 +51,11 @@
  fringe/
 'full house'/
 'game of thrones'/
+'gaming wall street'/
+'good sam'/
 'gossip girl (2021)'/
  gotham/
+ halo/
 'halt and catch fire'/
  hanna/
 'hard knocks'/
@@ -67,6 +71,7 @@
  humans/
 'into the badlands'/
 'jack ryan'/
+'joe vs carole'/
 'killing eve'/
  kin/
 'kingdom (2014)'/
@@ -89,6 +94,7 @@
 "marvel's agents of S.H.I.E.L.D"/
 'mayans m.c'/
 'modern family'/
+'moon knight'/
 'mr robot'/
 'mr. corman'/
 'my name is earl'/
@@ -99,7 +105,9 @@
 'nip tuck'/
 'once upon a time'/
  outlander/
+ pachinko/
 'parks and recreation'/
+'peacemaker (2022)'/
 'perpetual grace ltd'/
 'person of interest'/
 'planet earth'/
@@ -138,6 +146,7 @@
 'stranger things'/
 'strangest things'/
  suits/
+'super pumped the battle for uber'/
 'superman and lois'/
  supernatural/
  superstore/
@@ -145,10 +154,12 @@
 'the 100'/
 'the beatles get back'/
 'the boys'/
+'the boys presents diabolical'/
 'the cleaning lady'/
 'the crime of the century'/
 'the curse of oak island'/
 'the daily show with trevor noah'/
+'the endgame'/
 'the expanse'/
 'the girlfriend experience'/
 'the good place'/
@@ -163,6 +174,7 @@
 'the orville'/
 'the people v the klan'/
 'the problem with jon stewart'/
+'the thing about pam'/
 'the third day'/
 'the unxplained'/
 'the walking dead origins'/
@@ -172,6 +184,7 @@
 'united shades of america'/
 'veronica mars'/
  watchmen/
+ wecrashed/
  westworld/
 'what if (2021)'/
 'wu tang an american saga'/

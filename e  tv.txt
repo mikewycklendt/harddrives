@@ -1,4 +1,4 @@
-\ 1883/
+ 1883/
 'american auto'/
 'americas book of secrets'/
 'and just like that'/
@@ -85,7 +85,7 @@
 'royal pains'/
  sanctuary/
 'saved by the bell'/
-'saved by the bell - the college years'/
+'saved by the bell - the college years
 'saved by the bell (2020)'/
  see/
 'six feet under'/
@@ -107,10 +107,11 @@
  supergirl/
  taken/
 'tell me your secrets'/
-'terminator - the sarah connor chronicles'/
+'terminator - the sarah connor chronic
 'the 100'/
 'the book of boba fett'/
 'the boys'/
+'the boys presents diabolical'/
 'the chicago code'/
 'the first'/
 'the flight attendant'/
@@ -129,11 +130,11 @@
 'the outpost'/
 'the outsider'/
 'the proof is out there'/
-'the secret story of the knights templar'/
+'the secret story of the knights templ
 'the shrink next door'/
 'the sopranos'/
 'the stand (2020)'/
-'the story of god with morgan freeman'/
+'the story of god with morgan freeman'
 'the tesla files'/
 'the umbrella academy'/
 'the wheel of time'/
@@ -149,7 +150,7 @@
  trying/
 'tvf pitchers'/
 'under the dome'/
-'unidentified inside americas ufo investigations'/
+'unidentified inside americas ufo inve
 'utopia falls'/
 'van helsing'/
 'veronica mars'/
