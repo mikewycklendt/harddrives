@@ -9,6 +9,7 @@
  awake/
  away/
  billions/
+'billy the kid'/
 'bionic woman'/
 'black mirror'/
  bmf/
@@ -30,6 +31,8 @@
  flack/
  foundation/
 'frank of ireland'/
+ gaslit/
+'generation hustle'/
 'get shorty'/
 'godfather of harlem'/
 'greys anatomy'/
@@ -42,6 +45,7 @@
 'how to become a tyrant'/
 'into the universe with stephen hawking'/
 'invasion (2021)'/
+'inventing anna'/
  invincible/
 'jupiters legacy'/
 'kevin can fuck himself'/
@@ -60,16 +64,21 @@
 'mr. inbetween'/
 'nancy drew'/
 'narco wars'/
+'night sky'/
+'obi-wan kenobi'/
 'ordinary joe'/
 'our cartoon president'/
+'outer range'/
  ozark/
 'party down'/
 'power book II ghost'/
 'power book III raising kanan'/
 'power book IV force'/
+'prehistoric planet'/
 'project blue book'/
  psych/
 'pushing daisies'/
+ p-valley/
 'q into the storm'/
  quantico/
 'rescue me'/
@@ -83,12 +92,14 @@
 "schitt's creek"/
 'searching for secrets'/
  servant/
+ severance/
 'shadow and bone'/
 'sharp objects'/
  sherlock/
 'silicon valley'/
  six/
 'sleepy hollow'/
+'slow horses'/
 'sneaky pete'/
  snowfall/
 'spy city'/
@@ -98,6 +109,7 @@
 'star wars the bad batch'/
 'star wars the clone wars'/
  stargirl/
+'station eleven'/
  supergirl/
 'swamp thing'/
 'tales from the loop'/
@@ -113,6 +125,8 @@
 'the curse of oak island'/
 'the daily show with trevor noah'/
 'the dark side of football'/
+'the dropout'/
+'the essex serpant'/
 'the expanse'/
 'the falcon and the winter soldier'/
 'the family man'/
@@ -127,6 +141,7 @@
 'the newsroom'/
 'the night manager'/
 'the north water'/
+'the offer'/
 'the outpost'/
 'the problem with jon stewart'/
 'the queens gambit'/
@@ -153,6 +168,7 @@
 'true detective'/
  trying/
 'twin peaks'/
+'under the banner of heaven'/
  upload/
  utopia/
  veep/
@@ -160,6 +176,7 @@
 'vikings valhalla'/
  wandavision/
  watchmen/
+'welcome home nikki glaser'/
 'what we do in the shadows'/
 'wonders of the universe'/
 'wu tang an american saga'/

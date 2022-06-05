@@ -1,6 +1,7 @@
  1883/
 '30 rock'/
 '4400 (2021)'/
+'61st street'/
  9-1-1/
 '9-1-1 lone star'/
 'a discovery of witches'/
@@ -127,6 +128,7 @@
 'south park'/
 'spy city'/
 'star trek picard'/
+'star trek strange new worlds'/
 'star wars forces of destiny'/
 'star wars rebels'/
 'star wars resistance'/
@@ -153,6 +155,7 @@
 'the endgame'/
 'the falcon and the winter soldier'/
 'the family man'/
+'the first lady'/
 'the flash'/
 'the flight attendant'/
 'the following'/
@@ -207,6 +210,7 @@
  wecrashed/
 'what if (2021)'/
 'what we do in the shadows'/
+'winning time the rise of the lakers dynasty'/
 'wonders of the universe'/
  workaholics/
  yellowjackets/

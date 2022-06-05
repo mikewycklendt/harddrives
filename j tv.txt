@@ -1,5 +1,6 @@
-'12 monkeys'/
+'12 monkeys'/
 '1600 penn'/
+'61st street'/
  9-1-1/
 '9-1-1 lone star'/
 'a discovery of witches'/
@@ -26,6 +27,7 @@
 'blue planet 2'/
 'boardwalk empire'/
  bosch/
+'bosch legacy'/
 'brooklyn nine-nine'/
 'burn notice'/
  caprica/
@@ -161,6 +163,7 @@
 'the daily show with trevor noah'/
 'the endgame'/
 'the expanse'/
+'the first lady'/
 'the girlfriend experience'/
 'the good place'/
 'the handmaids tale'/
@@ -187,6 +190,7 @@
  wecrashed/
  westworld/
 'what if (2021)'/
+'winning time the rise of the lakers dynasty'/
 'wu tang an american saga'/
 'y the last man'/
 'z nation'/

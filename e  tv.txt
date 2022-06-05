@@ -7,6 +7,7 @@
 'berlin station'/
 'beyond oak island'/
 'big little lies'/
+'billy the kid'/
 'black lightning'/
 'black monday'/
 'blade runner black lotus'/
@@ -35,7 +36,9 @@
 'frank of ireland'/
  frequency/
 'gangs of london'/
+ gaslit/
  generation/
+'generation hustle'/
 'godfather of harlem'/
 'gossip girl (2021)'/
  hacks/
@@ -46,6 +49,7 @@
 'if we built it today'/
  industry/
  intergalactic/
+'inventing anna'/
 'jack ryan'/
  joey/
 'jupiters legacy'/
@@ -72,10 +76,14 @@
 'mr. inbetween'/
 'new amsterdam'/
 'New folder'/
+'night sky'/
 'no activity'/
+'obi-wan kenobi'/
+'outer range'/
 'patrick melrose'/
  patriot/
  physical/
+'prehistoric planet'/
 'prodigal son'/
 'raising dion'/
 'resident alien'/
@@ -85,10 +93,12 @@
 'royal pains'/
  sanctuary/
 'saved by the bell'/
-'saved by the bell - the college years
+'saved by the bell - the college years'/
 'saved by the bell (2020)'/
  see/
+ severance/
 'six feet under'/
+'slow horses'/
 'sneaky pete'/
  snowfall/
  solos/
@@ -107,12 +117,14 @@
  supergirl/
  taken/
 'tell me your secrets'/
-'terminator - the sarah connor chronic
+'terminator - the sarah connor chronicles'/
 'the 100'/
 'the book of boba fett'/
 'the boys'/
 'the boys presents diabolical'/
 'the chicago code'/
+'the dropout'/
+'the essex serpant'/
 'the first'/
 'the flight attendant'/
 'the gifted'/
@@ -125,16 +137,17 @@
 'the morning show'/
 'the north water'/
 'the o.c'/
+'the offer'/
 'the office'/
 'the orville'/
 'the outpost'/
 'the outsider'/
 'the proof is out there'/
-'the secret story of the knights templ
+'the secret story of the knights templar'/
 'the shrink next door'/
 'the sopranos'/
 'the stand (2020)'/
-'the story of god with morgan freeman'
+'the story of god with morgan freeman'/
 'the tesla files'/
 'the umbrella academy'/
 'the wheel of time'/
@@ -150,7 +163,7 @@
  trying/
 'tvf pitchers'/
 'under the dome'/
-'unidentified inside americas ufo inve
+'unidentified inside americas ufo investigations'/
 'utopia falls'/
 'van helsing'/
 'veronica mars'/
@@ -160,6 +173,7 @@
  wandavision/
 'war of the worlds'/
  weeds/
+'welcome home nikki glaser'/
  westworld/
 'wheel of time origins'/
 'when they see us'/

@@ -68,6 +68,7 @@
 'power book IV force'/
 'power on the story of xbox'/
 'prodigal son'/
+ p-valley/
 'raising dion'/
 'resident alien'/
 'seal team'/
@@ -76,6 +77,8 @@
  somos/
 'spartacus gods of the arena'/
 'star trek picard'/
+'star trek strange new worlds'/
+'station eleven'/
  succession/
  taken/
 'the americans'/
@@ -99,6 +102,7 @@
 'the walking dead world beyond'/
 'true detective'/
 'tvf pitchers'/
+'under the banner of heaven'/
 'united shades of america'/
  upload/
 'utopia falls'/
